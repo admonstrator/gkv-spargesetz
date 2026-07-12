@@ -1,10 +1,10 @@
-# Für Psychotherapeut:in:innen & Patient:in:innen: Die drohende Krise
+# Für Psychotherapeut:innen & Patient:innen: Die drohende Krise
 
-Die Versorgung im Bereich der Psychiatrie und Psychotherapie ist einer der am stärksten betroffenen und politisch umstrittensten Bereiche des neuen Gesetzes. Die Auswirkungen treffen sowohl Behandler als auch Patient:in:innen massiv.
+Die Versorgung im Bereich der Psychiatrie und Psychotherapie ist einer der am stärksten betroffenen und politisch umstrittensten Bereiche des neuen Gesetzes. Die Auswirkungen treffen sowohl Behandler als auch Patient:innen massiv.
 
 ## ⚖️ Wegfall der Angemessenheitsprüfung (Für Behandler)
-Die weitreichendste Änderung betrifft die Vergütung der Psychotherapeut:in:innen:
-Die bisherige gesetzliche Verpflichtung zur **Angemessenheitsprüfung für Psychotherapeut:in:innen-Honorare (§ 87 Abs. 2c SGB V)** wurde im finalen Gesetzestext durch eine geschickte Satzverschiebung ersatzlos **gestrichen**. 
+Die weitreichendste Änderung betrifft die Vergütung der Psychotherapeut:innen:
+Die bisherige gesetzliche Verpflichtung zur **Angemessenheitsprüfung für Psychotherapeut:innen-Honorare (§ 87 Abs. 2c SGB V)** wurde im finalen Gesetzestext durch eine geschickte Satzverschiebung ersatzlos **gestrichen**. 
 Das bedeutet, dass es keinen gesetzlichen Schutzmechanismus mehr gibt, der sicherstellt, dass die Vergütung den zeitlichen Aufwand und die Qualifikation angemessen widerspiegelt.
 
 ## 📉 Rückkehr zur Budgetierung
@@ -13,8 +13,8 @@ Zusätzlich wurde die Erwachsenenpsychotherapie wieder in die budgetierte Gesamt
 - Erhebliche Planungsunsicherheit für Praxen.
 - Risiko von Praxisaufgaben oder dem Wechsel in die reine Privatliquidation.
 
-## 👥 Folgen für Patient:in:innen
-Für Patient:in:innen bedeutet diese Entwicklung:
+## 👥 Folgen für Patient:innen
+Für Patient:innen bedeutet diese Entwicklung:
 - **Massiv längere Wartezeiten:** Durch den finanziellen Druck werden Praxen weniger Kassensitze voll auslasten können.
 - **Verschlechterung der Versorgungsqualität:** Ausgebrannte Behandler und fehlende Kapazitäten führen zu transgenerationalen, gesellschaftlichen Folgekosten, da psychische Erkrankungen unbehandelt bleiben.
 

@@ -24,15 +24,15 @@ Kurz und knapp: Was ändert sich, warum wurde das beschlossen und welche Nachtei
 **Die Änderung:** Homöopathische und anthroposophische Behandlungen werden komplett aus der GKV gestrichen – Krankenkassen dürfen diese auch nicht mehr als "freiwillige Satzungsleistung" anbieten.  
 **Die Auswirkung:** Globuli und entsprechende Arztgespräche müssen künftig ausnahmslos aus eigener Tasche bezahlt werden.  
 ✅ **Warum gut?** Die Solidargemeinschaft finanziert nur noch Therapien, deren medizinischer Nutzen wissenschaftlich zweifelsfrei bewiesen ist.  
-❌ **Warum schlecht?** Patient:in:innen, die auf diese sanfteren Heilmethoden schwören, fühlen sich bevormundet.
+❌ **Warum schlecht?** Patient:innen, die auf diese sanfteren Heilmethoden schwören, fühlen sich bevormundet.
 
 ---
 
 ## 🛋️ Engpass bei Psychotherapie
 **Die Änderung:** Psychotherapie wird wieder "budgetiert". Zudem wurde der gesetzliche Schutz auf angemessene Therapeut:innenhonorare gestrichen.  
-**Die Auswirkung:** Therapeut:innen bekommen ab einer bestimmten Menge an Patient:in:innen keine garantierte Vergütung mehr.  
+**Die Auswirkung:** Therapeut:innen bekommen ab einer bestimmten Menge an Patient:innen keine garantierte Vergütung mehr.  
 ✅ **Warum gut?** Begrenzt das ungebremste Ausgabenwachstum in diesem Sektor.  
-❌ **Warum schlecht?** Praxen werden aus finanzieller Not Patient:in:innen abweisen oder aufgeben. Die Wartezeiten auf einen Therapieplatz werden voraussichtlich dramatisch steigen.
+❌ **Warum schlecht?** Praxen werden aus finanzieller Not Patient:innen abweisen oder aufgeben. Die Wartezeiten auf einen Therapieplatz werden voraussichtlich dramatisch steigen.
 
 ---
 

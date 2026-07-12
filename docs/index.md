@@ -40,7 +40,7 @@ Das GKV-Spargesetz ist das bisher weitreichendste Eingreifen in die Finanzierung
 
     ---
 
-    Warum die Budgetierung und der Wegfall der Angemessenheitsprüfung die Versorgung bedrohen. Praxen und Patient:in:innen sind betroffen.
+    Warum die Budgetierung und der Wegfall der Angemessenheitsprüfung die Versorgung bedrohen. Praxen und Patient:innen sind betroffen.
 
     [:material-arrow-right-circle: Mehr lesen](Zusammenfassungen/psychotherapie.md)
 
