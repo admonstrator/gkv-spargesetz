@@ -38,4 +38,4 @@ graph TD
 ---
 
 > ℹ️ **Möchten Sie die genauen Originaldokumente zu den jeweiligen Schritten einsehen?**  
-> Alle PDFs (wie die Ausschussempfehlungen, die Anträge der Länder und den finalen Gesetzesbeschluss) finden Sie chronologisch geordnet unter **[Original-Dokumente](../Eingangsdokumente/README.md)**.
+> Alle PDFs (wie die Ausschussempfehlungen, die Anträge der Länder und den finalen Gesetzesbeschluss) finden Sie chronologisch geordnet unter **[Original-Dokumente](../Eingangsdokumente/)**.
