@@ -1,0 +1,21 @@
+Drucksache 411/26
+
+– 16 –
+
+1. Leistungen im Behandlungsfall, die aufgrund der Vermittlung durch die Terminservicestelle nach § 75 Absatz 1a Satz 3 Nummer 1 und 4 erbracht werden,
+2. Leistungen im Behandlungsfall bei Weiterbehandlung eines Patienten durch einen an der fachärztlichen Versorgung teilnehmenden Leistungserbringer nach Vermittlung durch einen an der hausärztlichen Versorgung teilnehmenden Leistungserbringer nach § 73 Absatz 1 Satz 2 Nummer 2 und
+3. Leistungen im Behandlungsfall, die im Rahmen von bis zu fünf offenen Sprechstunden je Kalenderwoche ohne vorherige Terminvereinbarung nach § 19a Absatz 1 Satz 3 und 4 der Zulassungsverordnung für Vertragsärzte erbracht werden,
+4. Leistungen, die auf Grund einer Empfehlung des Bewertungsausschusses nach Absatz 5 Satz 1 Nummer 3 in der bis zum … [einsetzen: Datum der Verkündung dieses Gesetzes] geltenden Fassung außerhalb der nach Satz 1 vereinbarten morbiditätsbedingten Gesamtvergütungen mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 vergütet werden,
+5. alle Leistungen, für die zum Zeitpunkt der Vereinbarung der morbiditätsbedingten Gesamtvergütungen für das folgende Kalenderjahr Abrechnungsdaten für diese Leistungen von mindestens acht Kalenderquartalen vorliegen, sowie
+6. Leistungen, die auf Grund von Vereinbarungen zwischen den Kassenärztlichen Vereinigungen und den Landesverbänden der Krankenkassen und den Ersatzkassen außerhalb der nach Satz 1 vereinbarten morbiditätsbedingten Gesamtvergütungen mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 vergütet werden.
+
+Im Zeitraum vom 1. Januar 2027 bis zum 31. Dezember 2027 werden die bereits nach Satz 8 in der bis zum … [einsetzen: Datum der Verkündung dieses Gesetzes] geltenden Fassung für die Kalenderjahre 2023 bis 2025 jeweils bereinigten arztgruppenspezifischen Punktzahlvolumina für die in Satz 7 Nummer 3 genannten Leistungen in den nach Satz 2 zu vereinbarenden Behandlungsbedarf rückgeführt. Die jeweiligen Volumina nach Satz 8 sind um die nach Absatz 4 Satz 1 Nummer 1 und 2 vereinbarten Veränderungen anzupassen, beginnend mit den vereinbarten Veränderungen für das der jeweiligen Bereinigung folgende Kalenderjahr bis zu denen des Kalenderjahres 2026. Der Bewertungsausschuss beschließt bis zum 15. Februar 2027 Vorgaben zur Durchführung der Rückführung nach Satz 8 und zur Anpassung des Volumens nach Satz 9. Der nach Satz 2 zu vereinbarende Behandlungsbedarf wird für das Kalenderjahr 2027 quartalsweise und basiswirksam um das Punktzahlvolumen des von den Kassenärztlichen Vereinigungen auf sachliche und rechnerische Richtigkeit geprüften und in Punkten bewerteten Leistungsbedarfs für die in Satz 7 Nummer 4 und 6 genannten Leistungen des dem jeweiligen Kalenderquartal entsprechenden Kalenderquartals des Kalenderjahres 2025 angehoben. Das Punktzahlvolumen nach Satz 11 ist um die für die Kalenderjahre 2026 und 2027 vereinbarten Veränderungen
+
+1. der Zahl und der Morbiditätsstruktur der Versicherten aller Krankenkassen mit Wohnort im Bezirk der jeweiligen Kassenärztlichen Vereinigung sowie
+2. des einheitlichen Bewertungsmaßstabs für ärztliche Leistungen nach § 87 Absatz 2 Satz 2, soweit diese für die in Satz 5 Nummer 4 und 6 genannten Leistungen relevant sind,
+
+anzupassen. Der Behandlungsbedarf nach Satz 2 wird ab dem Kalenderjahr 2027 jeweils um das Punktzahlvolumen des von den Kassenärztlichen Vereinigungen auf sachliche und rechnerische Richtigkeit geprüften und in Punkten bewerteten Leistungsbedarfs der letzten vier vorliegenden Abrechnungsquartale für die in Satz 7 Nummer 5 genannten Leistungen unter Berücksichtigung von etwaigen Veränderungen entsprechend Satz 12 angehoben.“
+
+c) Die Absätze 3b und 3c werden durch die folgenden Absätze 3b und 3c ersetzt:
+
+„(3b) Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin sind von den Krankenkassen mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 vollständig zu vergüten, soweit sie aus der für diese Leistungen festgesetzten morbiditätsbedingten Gesamtvergütung vollständig vergütet werden können. Abweichend von Absatz 3 Satz 1 und § 85 Absatz 1 wird die auf die in Satz 1 genannten Leistungen entfallende morbiditätsbedingte Gesamtvergütung nicht mit befriedigender Wirkung gezahlt. Wenn die vollständige Vergütung der in Satz 1 genannten Leistungen mit den

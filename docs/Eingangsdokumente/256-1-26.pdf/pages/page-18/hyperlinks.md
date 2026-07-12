@@ -1,0 +1,2 @@
+https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/F/FinanzKommission_Gesundheit/FinanzKommissionGesundheit_Erster_Bericht_20260330.pdf
+https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/F/FinanzKommission_Gesundheit/FinanzKommissionGesundheit_Erster_Bericht_20260330.pdf
