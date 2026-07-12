@@ -40,7 +40,7 @@ Das GKV-Spargesetz ist das bisher weitreichendste Eingreifen in die Finanzierung
 
     ---
 
-    Warum die Budgetierung und der Wegfall der Angemessenheitsprüfung die Versorgung bedrohen. Praxen und Patienten sind betroffen.
+    Warum die Budgetierung und der Wegfall der Angemessenheitsprüfung die Versorgung bedrohen. Praxen und Patient:in:innen sind betroffen.
 
     [:material-arrow-right-circle: Mehr lesen](Zusammenfassungen/psychotherapie.md)
 
@@ -66,7 +66,7 @@ Sie möchten die Änderungen nicht schweigend hinnehmen? In unserem Bereich **"A
 
     ---
 
-    Textvorlagen für Mails und Briefe an Ihren Bundestags- oder Landtagsabgeordneten, um politischen Druck aufzubauen.
+    Textvorlagen für Mails und Briefe an Ihren Bundestags- oder Landtagsabgeordnete:n, um politischen Druck aufzubauen.
 
     [:material-arrow-right-circle: Zu den Vorlagen](Aktionsmaterial/abgeordnete-anschreiben.md)
 
@@ -82,7 +82,7 @@ Sie möchten die Änderungen nicht schweigend hinnehmen? In unserem Bereich **"A
 
 ---
 
-## 🔬 Für Experten: Die Tiefe Analyse
+## 🔬 Für Expert:innen: Die Tiefe Analyse
 
 Wer es genau wissen will, findet detaillierte juristische Analysen und alle Quellen:
 

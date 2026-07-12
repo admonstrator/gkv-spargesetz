@@ -39,7 +39,7 @@ Das Projekt dient der verständlichen Aufbereitung des GKV-Beitragssatzstabilisi
 
 Aktuell gibt es keine akuten Fehlermeldungen oder offenen Beschwerden. Das System läuft stabil. 
 Mögliche Weiterentwicklungen:
-1. **Inhaltlicher Check:** Validierung der KI-Rohdaten durch einen echten Menschen (Jurist oder Fachexperte).
+1. **Inhaltlicher Check:** Validierung der KI-Rohdaten durch einen echten Menschen (Jurist:in oder Fachexpert:in).
 2. **Erweiterung:** Aufnahme weiterer Entschließungsanträge oder Reaktionen von Verbänden.
 3. **Download-Sektion:** PDFs der vorgefertigten Mails/Briefe zum direkten Ausdrucken generieren.
 

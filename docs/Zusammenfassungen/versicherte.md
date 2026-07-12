@@ -1,11 +1,11 @@
 # Für Versicherte: Was ändert sich konkret?
 
-Das GKV-Spargesetz zielt primär auf die Einnahmenseite der Gesetzlichen Krankenversicherung, bringt aber auch Leistungskürzungen mit sich. Hier ist eine verständliche Zusammenfassung der wichtigsten Punkte für Sie als Versicherter.
+Das GKV-Spargesetz zielt primär auf die Einnahmenseite der Gesetzlichen Krankenversicherung, bringt aber auch Leistungskürzungen mit sich. Hier ist eine verständliche Zusammenfassung der wichtigsten Punkte für Sie als Versicherte:r.
 
 ## 💶 Höhere finanzielle Belastungen
 
-1. **Beitragszuschlag für familienversicherte Ehegatten:**
-   Bislang war die Familienversicherung für Ehegatten ohne eigenes Einkommen kostenfrei. Mit dem neuen § 242b SGB V kann Ihre Krankenkasse nun einen einkommensunabhängigen Pauschalbetrag erheben.
+1. **Beitragszuschlag für familienversicherte Ehepartner:innen:**
+   Bislang war die Familienversicherung für Ehepartner:innen ohne eigenes Einkommen kostenfrei. Mit dem neuen § 242b SGB V kann Ihre Krankenkasse nun einen einkommensunabhängigen Pauschalbetrag erheben.
 2. **Erhöhte Beitragsbemessungsgrenze:**
    Besserverdienende zahlen auf einen größeren Teil ihres Gehalts Beiträge.
 3. **Höhere Zuzahlungen:**

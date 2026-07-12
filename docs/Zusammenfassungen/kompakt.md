@@ -4,9 +4,9 @@ Kurz und knapp: Was ändert sich, warum wurde das beschlossen und welche Nachtei
 
 ---
 
-## 💶 Höhere Kosten für Familien & Gutverdiener
-**Die Änderung:** Einführung eines neuen Beitragszuschlags für familienversicherte Ehegatten ohne eigenes Einkommen. Zudem wird die Beitragsbemessungsgrenze angehoben.  
-**Die Auswirkung:** Gutverdiener zahlen auf einen größeren Teil ihres Gehalts Beiträge. Familien mit einem Alleinverdiener müssen künftig eine Pauschale ("Ehegattenzuschlag") zahlen, wo bisher die kostenfreie Mitversicherung galt.  
+## 💶 Höhere Kosten für Familien & Gutverdiener:innen
+**Die Änderung:** Einführung eines neuen Beitragszuschlags für familienversicherte Ehepartner:innen ohne eigenes Einkommen. Zudem wird die Beitragsbemessungsgrenze angehoben.  
+**Die Auswirkung:** Gutverdiener:innen zahlen auf einen größeren Teil ihres Gehalts Beiträge. Familien mit einem Alleinverdiener:innen müssen künftig eine Pauschale ("Ehegattenzuschlag") zahlen, wo bisher die kostenfreie Mitversicherung galt.  
 ✅ **Warum gut?** Spült dringend benötigtes Geld in das chronisch defizitäre Kassensystem.  
 ❌ **Warum schlecht?** Belastet Familien zusätzlich und schwächt das Prinzip der solidarischen Familienversicherung.
 
@@ -24,15 +24,15 @@ Kurz und knapp: Was ändert sich, warum wurde das beschlossen und welche Nachtei
 **Die Änderung:** Homöopathische und anthroposophische Behandlungen werden komplett aus der GKV gestrichen – Krankenkassen dürfen diese auch nicht mehr als "freiwillige Satzungsleistung" anbieten.  
 **Die Auswirkung:** Globuli und entsprechende Arztgespräche müssen künftig ausnahmslos aus eigener Tasche bezahlt werden.  
 ✅ **Warum gut?** Die Solidargemeinschaft finanziert nur noch Therapien, deren medizinischer Nutzen wissenschaftlich zweifelsfrei bewiesen ist.  
-❌ **Warum schlecht?** Patienten, die auf diese sanfteren Heilmethoden schwören, fühlen sich bevormundet.
+❌ **Warum schlecht?** Patient:in:innen, die auf diese sanfteren Heilmethoden schwören, fühlen sich bevormundet.
 
 ---
 
 ## 🛋️ Engpass bei Psychotherapie
-**Die Änderung:** Psychotherapie wird wieder "budgetiert". Zudem wurde der gesetzliche Schutz auf angemessene Therapeutenhonorare gestrichen.  
-**Die Auswirkung:** Therapeuten bekommen ab einer bestimmten Menge an Patienten keine garantierte Vergütung mehr.  
+**Die Änderung:** Psychotherapie wird wieder "budgetiert". Zudem wurde der gesetzliche Schutz auf angemessene Therapeut:innenhonorare gestrichen.  
+**Die Auswirkung:** Therapeut:innen bekommen ab einer bestimmten Menge an Patient:in:innen keine garantierte Vergütung mehr.  
 ✅ **Warum gut?** Begrenzt das ungebremste Ausgabenwachstum in diesem Sektor.  
-❌ **Warum schlecht?** Praxen werden aus finanzieller Not Patienten abweisen oder aufgeben. Die Wartezeiten auf einen Therapieplatz werden voraussichtlich dramatisch steigen.
+❌ **Warum schlecht?** Praxen werden aus finanzieller Not Patient:in:innen abweisen oder aufgeben. Die Wartezeiten auf einen Therapieplatz werden voraussichtlich dramatisch steigen.
 
 ---
 
@@ -48,4 +48,4 @@ Kurz und knapp: Was ändert sich, warum wurde das beschlossen und welche Nachtei
 **Die Änderung:** Wer länger als 4 Wochen krank ist, muss nicht mehr zwingend voll zuhause bleiben, sondern kann stundenweise arbeiten (Teilarbeitsunfähigkeit).  
 **Die Auswirkung:** Man erbringt einen Teil seiner Arbeitsleistung und bezieht für die restliche Zeit "Teil-Krankengeld".  
 ✅ **Warum gut?** Erleichtert den sanften Wiedereinstieg in den Job (wie beim Hamburger Modell, nur unbürokratischer).  
-❌ **Warum schlecht?** Risiko, dass Arbeitgeber (oder das eigene Gewissen) Druck ausüben, trotz Krankheit "wenigstens ein bisschen" zu arbeiten.
+❌ **Warum schlecht?** Risiko, dass Arbeitgeber:innen (oder das eigene Gewissen) Druck ausüben, trotz Krankheit "wenigstens ein bisschen" zu arbeiten.

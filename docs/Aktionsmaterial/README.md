@@ -7,6 +7,6 @@ Auf den folgenden Seiten finden Sie Textbausteine, Vorlagen und Argumentationshi
 - 🏛️ **[Abgeordnete anschreiben](abgeordnete-anschreiben.md)**
   Wie Sie Ihren Bundestagsabgeordneten (MdB) oder Vertreter im Landtag kontaktieren und konfrontieren können.
 - ✉️ **[Beschwerde bei der Krankenkasse](beschwerde-krankenkasse.md)**
-  Was Sie tun können, wenn Sie persönlich von Leistungskürzungen (z.B. Zusatzbeiträge für Ehegatten, gestrichene Psychotherapie-Termine, abgelehnte Behandlungen) betroffen sind.
+  Was Sie tun können, wenn Sie persönlich von Leistungskürzungen (z.B. Zusatzbeiträge für Ehepartner:innen, gestrichene Psychotherapie-Termine, abgelehnte Behandlungen) betroffen sind.
 
 > **Tipp:** Teilen Sie diese Seite mit Bekannten, Kollegen oder in Fachforen. Je mehr Menschen sich fundiert äußern, desto schwerer wird es für die Politik, die Konsequenzen des Gesetzes zu ignorieren.
