@@ -58,3 +58,37 @@
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
   border-color: var(--md-primary-fg-color);
 }
+
+/* --- Farbliche Differenzierung der Cards --- */
+.md-typeset .grid.cards > ul > li {
+  position: relative;
+  overflow: hidden;
+  border-top: 4px solid var(--card-color, var(--md-primary-fg-color));
+}
+
+/* Farben rotierend zuweisen */
+.md-typeset .grid.cards > ul > li:nth-child(5n+1) { --card-color: #EF476F; } /* Pink/Rot */
+.md-typeset .grid.cards > ul > li:nth-child(5n+2) { --card-color: #118AB2; } /* Blau */
+.md-typeset .grid.cards > ul > li:nth-child(5n+3) { --card-color: #06D6A0; } /* Grün */
+.md-typeset .grid.cards > ul > li:nth-child(5n+4) { --card-color: #FFD166; } /* Gelb/Orange */
+.md-typeset .grid.cards > ul > li:nth-child(5n+5) { --card-color: #9D4EDD; } /* Lila */
+
+/* Icons in der Karte passend zur Top-Border einfärben */
+.md-typeset .grid.cards > ul > li strong > .twemoji {
+  color: var(--card-color, var(--md-primary-fg-color));
+}
+
+/* Zarter Hintergrund-Schimmer in Kartenfarbe */
+.md-typeset .grid.cards > ul > li::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: var(--card-color, var(--md-primary-fg-color));
+  opacity: 0.04;
+  z-index: 0;
+  pointer-events: none;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li::before {
+  opacity: 0.1;
+}
