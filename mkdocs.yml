@@ -4,8 +4,14 @@ theme:
   name: material
   custom_dir: overrides
   language: de
+  icon:
+    logo: material/scale-balance
+  font:
+    text: Outfit
+    code: Fira Code
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - search.suggest
@@ -13,19 +19,21 @@ theme:
     - toc.integrate
   palette:
     - scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: teal
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Dunkelmodus aktivieren
     - scheme: slate
-      primary: indigo
-      accent: deep purple
+      primary: teal
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: Hellen Modus aktivieren
 plugins:
   - search
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
