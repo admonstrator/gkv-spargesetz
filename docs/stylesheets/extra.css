@@ -1,5 +1,7 @@
 /* Allgemeine Farbanpassungen */
 :root {
+  --md-text-font: "Outfit", sans-serif;
+  --md-code-font: "Fira Code", monospace;
   --md-primary-fg-color: #00796B; /* Elegantes, tiefes Türkis */
   --md-primary-fg-color--light: #4DB6AC;
   --md-primary-fg-color--dark: #004D40;
