@@ -1,185 +1,196 @@
 # Analyse: SGB V (Teil 1: §§ 2-36) – Änderungen durch Artikel 1 Nr. 1-15 (GKV-Beitragssatzstabilisierungsgesetz, BT-Drs. 411/26)
 
-## Überblick
+## 🎯 Zusammenfassung: Was bedeutet das konkret?
 
-Diese erste Gruppe von Einzeländerungen bündelt drei Stoßrichtungen: (1) eine systematische Zurückdrängung der besonderen Therapierichtungen (Homöopathie, Anthroposophie, teilweise auch Phytotherapie) aus dem GKV-Leistungskatalog – durchgezogen über § 2 Abs. 1, § 11 Abs. 6, § 31 Abs. 1 und § 34 Abs. 3; (2) unmittelbare Sparmaßnahmen bei den Krankenkassen selbst, namentlich eine Deckelung der Verwaltungsausgaben (§ 4 Abs. 5) und der Werbeausgaben (§ 4a) sowie eine grundlegend neu gefasste, datengetriebene Festbetragsbildung für Hilfsmittel (§ 36); (3) eine Reihe struktureller Eingriffe in die beitragsfreie Familienversicherung von Ehegatten/Lebenspartnern (§ 3, konsequenzial § 10), die Versicherungspflichtgrenze (§ 6, § 8) sowie verschärfte bzw. verfahrensmäßig ausgebaute Regelungen zur ärztlichen Zweitmeinung (§ 27b) und zur fachlichen Qualifikation bei kieferorthopädischer Behandlung (§ 28). Einzelne Änderungen (§ 25, § 35a) sind demgegenüber eher verfahrens- bzw. bürokratieentlastend.
+In diesem Teil geht es primär um die Leistungen, die die Kassen erbringen (oder künftig nicht mehr erbringen).
 
-## Einzeländerungen
+- 🧍 **Für normale Menschen / Patient:innen:** 
+  - **Zusatzkosten für Familien:** Wenn Ihr:e Ehepartner:in bisher kostenlos familienversichert war, fordert die Kasse künftig einen eigenen monatlichen Zuschlag ("Ehegattenzuschlag"). 
+  - **Ende der Kügelchen:** Die Kasse zahlt Ihnen keine homöopathischen und anthroposophischen Mittel mehr – auch nicht freiwillig. Sie müssen diese komplett selbst bezahlen.
+- 👩‍⚕️ **Für Therapeut:innen, Ärzt:innen & Kliniken:**
+  - Krankenkassen dürfen weniger Geld für Werbung und Verwaltung ausgeben.
 
-### Artikel 1 Nr. 1 – § 2 Absatz 1 SGB V
-!!! info "Bisherige Rechtslage"
-    § 2 Abs. 1 besteht aus drei Sätzen: Satz 1 (Wirtschaftlichkeitsgebot nach § 12), Satz 2 – „Behandlungsmethoden, Arznei- und Heilmittel der besonderen Therapierichtungen sind nicht ausgeschlossen." – und Satz 3 (Qualität/Wirksamkeit müssen dem allgemein anerkannten Stand der medizinischen Erkenntnisse entsprechen).
 
-!!! success "Neue Regelung"
-    Absatz 1 wird komplett ersetzt und enthält nur noch zwei Sätze; der bisherige Satz 2 zu den besonderen Therapierichtungen entfällt ersatzlos. Satz 1 und der bisherige Satz 3 bleiben inhaltsgleich (mit redaktioneller Umstellung „nach § 12" statt „(§ 12)").
+??? note "Juristische Details & Paragraphen-Vergleich aufklappen"
+    ## Überblick
 
-!!! warning "Auswirkung"
-    Die ausdrückliche gesetzliche Schutzklausel für besondere Therapierichtungen (Homöopathie, Anthroposophie, Phytotherapie) fällt weg. Dies ist die Grundsatznorm, auf der die spätere Verdrängung dieser Therapierichtungen aus Satzungsleistungen (§ 11 Abs. 6) und aus dem Regelleistungskatalog (§ 31 Abs. 1) sowie aus dem Ausnahmeschutz bei OTC-Ausschlüssen (§ 34 Abs. 3) aufbaut. Praktisch bedeutet das eine schrittweise Herausnahme homöopathischer/anthroposophischer Mittel aus der GKV-Finanzierung.
+    Diese erste Gruppe von Einzeländerungen bündelt drei Stoßrichtungen: (1) eine systematische Zurückdrängung der besonderen Therapierichtungen (Homöopathie, Anthroposophie, teilweise auch Phytotherapie) aus dem GKV-Leistungskatalog – durchgezogen über § 2 Abs. 1, § 11 Abs. 6, § 31 Abs. 1 und § 34 Abs. 3; (2) unmittelbare Sparmaßnahmen bei den Krankenkassen selbst, namentlich eine Deckelung der Verwaltungsausgaben (§ 4 Abs. 5) und der Werbeausgaben (§ 4a) sowie eine grundlegend neu gefasste, datengetriebene Festbetragsbildung für Hilfsmittel (§ 36); (3) eine Reihe struktureller Eingriffe in die beitragsfreie Familienversicherung von Ehegatten/Lebenspartnern (§ 3, konsequenzial § 10), die Versicherungspflichtgrenze (§ 6, § 8) sowie verschärfte bzw. verfahrensmäßig ausgebaute Regelungen zur ärztlichen Zweitmeinung (§ 27b) und zur fachlichen Qualifikation bei kieferorthopädischer Behandlung (§ 28). Einzelne Änderungen (§ 25, § 35a) sind demgegenüber eher verfahrens- bzw. bürokratieentlastend.
 
+    ## Einzeländerungen
 
-### Artikel 1 Nr. 2 – § 3 Satz 3 SGB V
-!!! info "Bisherige Rechtslage"
-    Satz 3 lautet: „Für versicherte Familienangehörige werden Beiträge nicht erhoben." – d. h. beitragsfreie Familienversicherung gilt einheitlich für alle nach § 10 versicherten Angehörigen, einschließlich Ehegatten und Lebenspartner.
+    ### Artikel 1 Nr. 1 – § 2 Absatz 1 SGB V
+    !!! info "Bisherige Rechtslage"
+        § 2 Abs. 1 besteht aus drei Sätzen: Satz 1 (Wirtschaftlichkeitsgebot nach § 12), Satz 2 – „Behandlungsmethoden, Arznei- und Heilmittel der besonderen Therapierichtungen sind nicht ausgeschlossen." – und Satz 3 (Qualität/Wirksamkeit müssen dem allgemein anerkannten Stand der medizinischen Erkenntnisse entsprechen).
 
-!!! success "Neue Regelung"
-    Satz 3 wird durch zwei Sätze ersetzt: Für nach § 10 versicherte Ehegatten und Lebenspartner werden künftig Zuschläge auf die Beitragssätze der Mitglieder nach dem neu geschaffenen § 242b erhoben; nur für nach § 10 versicherte Kinder bleibt es bei der Beitragsfreiheit.
+    !!! success "Neue Regelung"
+        Absatz 1 wird komplett ersetzt und enthält nur noch zwei Sätze; der bisherige Satz 2 zu den besonderen Therapierichtungen entfällt ersatzlos. Satz 1 und der bisherige Satz 3 bleiben inhaltsgleich (mit redaktioneller Umstellung „nach § 12" statt „(§ 12)").
 
-!!! warning "Auswirkung"
-    Zentrale Sparmaßnahme des Gesetzes – die bislang vollständig beitragsfreie Familienversicherung für (typischerweise nicht oder nur geringfügig erwerbstätige) Ehegatten und eingetragene Lebenspartner wird beendet und durch einen Beitragszuschlag beim Mitglied ersetzt. Betroffen sind vor allem Alleinverdiener-Haushalte; Kinder bleiben unverändert beitragsfrei mitversichert. Die konkrete Zuschlagshöhe ergibt sich aus § 242b (nicht Teil dieser Analyse).
+    !!! warning "Auswirkung"
+        Die ausdrückliche gesetzliche Schutzklausel für besondere Therapierichtungen (Homöopathie, Anthroposophie, Phytotherapie) fällt weg. Dies ist die Grundsatznorm, auf der die spätere Verdrängung dieser Therapierichtungen aus Satzungsleistungen (§ 11 Abs. 6) und aus dem Regelleistungskatalog (§ 31 Abs. 1) sowie aus dem Ausnahmeschutz bei OTC-Ausschlüssen (§ 34 Abs. 3) aufbaut. Praktisch bedeutet das eine schrittweise Herausnahme homöopathischer/anthroposophischer Mittel aus der GKV-Finanzierung.
 
 
-### Artikel 1 Nr. 3 – § 4 Absatz 5 SGB V
-!!! info "Bisherige Rechtslage"
-    Absatz 5 ist derzeit „(weggefallen)" – es existiert keine Regelung an dieser Stelle.
+    ### Artikel 1 Nr. 2 – § 3 Satz 3 SGB V
+    !!! info "Bisherige Rechtslage"
+        Satz 3 lautet: „Für versicherte Familienangehörige werden Beiträge nicht erhoben." – d. h. beitragsfreie Familienversicherung gilt einheitlich für alle nach § 10 versicherten Angehörigen, einschließlich Ehegatten und Lebenspartner.
 
-!!! success "Neue Regelung"
-    Der Absatz wird mit neuem Inhalt besetzt: Ab dem Haushaltsjahr 2027 dürfen die Verwaltungsausgaben einer Krankenkasse (außer landwirtschaftliche und knappschaftliche Krankenversicherung) gegenüber dem Vorjahr nur noch im Rahmen der nach § 71 Abs. 3 Satz 5 veröffentlichten durchschnittlichen Veränderungsrate je Versicherten steigen; ausgenommen sind Ausgaben für IT-Sicherheit kritischer Infrastruktur und für Online-Sozialversicherungswahlen.
+    !!! success "Neue Regelung"
+        Satz 3 wird durch zwei Sätze ersetzt: Für nach § 10 versicherte Ehegatten und Lebenspartner werden künftig Zuschläge auf die Beitragssätze der Mitglieder nach dem neu geschaffenen § 242b erhoben; nur für nach § 10 versicherte Kinder bleibt es bei der Beitragsfreiheit.
 
-!!! warning "Auswirkung"
-    Neue, verbindliche Ausgabenbremse für die Verwaltungskosten der Krankenkassen (Personal, IT, Gebäude etc.), gekoppelt an die allgemeine Ausgabenentwicklung der GKV. Betrifft unmittelbar die Krankenkassen als Verwaltungsträger und mittelbar Beitragszahler über geringeren Ausgabendruck; Ausnahmen sichern Investitionen in Cybersicherheit und digitale Sozialwahlen.
+    !!! warning "Auswirkung"
+        Zentrale Sparmaßnahme des Gesetzes – die bislang vollständig beitragsfreie Familienversicherung für (typischerweise nicht oder nur geringfügig erwerbstätige) Ehegatten und eingetragene Lebenspartner wird beendet und durch einen Beitragszuschlag beim Mitglied ersetzt. Betroffen sind vor allem Alleinverdiener-Haushalte; Kinder bleiben unverändert beitragsfrei mitversichert. Die konkrete Zuschlagshöhe ergibt sich aus § 242b (nicht Teil dieser Analyse).
 
 
-### Artikel 1 Nr. 4 – § 4a SGB V
-!!! info "Bisherige Rechtslage"
-    Abs. 3 erlaubt Werbung der Krankenkassen unter drei Bedingungen (Werberecht, sachbezogene Information im Vordergrund, Formvereinbarkeit mit dem Status als Körperschaft öffentlichen Rechts), ohne betragsmäßige Obergrenze im Gesetz selbst. Abs. 4 Satz 1 Nr. 2 ermächtigt das BMG, per Rechtsverordnung „Höchstgrenzen für Werbeausgaben einschließlich der Aufwandsentschädigungen für externe Dienstleister" festzulegen.
+    ### Artikel 1 Nr. 3 – § 4 Absatz 5 SGB V
+    !!! info "Bisherige Rechtslage"
+        Absatz 5 ist derzeit „(weggefallen)" – es existiert keine Regelung an dieser Stelle.
 
-!!! success "Neue Regelung"
-    a) Abs. 3 erhält einen vierten Satz: Die Werbeausgaben einer Krankenkasse dürfen je Haushaltsjahr 0,075 % der monatlichen Bezugsgröße nach § 18 Abs. 1 SGB IV je Mitglied nicht überschreiten – eine gesetzlich fixierte Obergrenze. b) Abs. 4 Satz 1 Nr. 2 wird entsprechend verschlankt auf „Höchstgrenzen für Werbeausgaben für näher bestimmte Werbemaßnahmen" (die allgemeine Obergrenze steht nun im Gesetz selbst, die Verordnungsermächtigung betrifft nur noch spezifische Werbemaßnahmen).
+    !!! success "Neue Regelung"
+        Der Absatz wird mit neuem Inhalt besetzt: Ab dem Haushaltsjahr 2027 dürfen die Verwaltungsausgaben einer Krankenkasse (außer landwirtschaftliche und knappschaftliche Krankenversicherung) gegenüber dem Vorjahr nur noch im Rahmen der nach § 71 Abs. 3 Satz 5 veröffentlichten durchschnittlichen Veränderungsrate je Versicherten steigen; ausgenommen sind Ausgaben für IT-Sicherheit kritischer Infrastruktur und für Online-Sozialversicherungswahlen.
 
-!!! warning "Auswirkung"
-    Erstmals gesetzlich fixierte, kassenindividuell berechnete Obergrenze für Werbe-/Marketingausgaben der Krankenkassen – eine direkte Sparmaßnahme, die den oft kritisierten Wettbewerb der Kassen um Mitglieder über teure Werbekampagnen begrenzt.
+    !!! warning "Auswirkung"
+        Neue, verbindliche Ausgabenbremse für die Verwaltungskosten der Krankenkassen (Personal, IT, Gebäude etc.), gekoppelt an die allgemeine Ausgabenentwicklung der GKV. Betrifft unmittelbar die Krankenkassen als Verwaltungsträger und mittelbar Beitragszahler über geringeren Ausgabendruck; Ausnahmen sichern Investitionen in Cybersicherheit und digitale Sozialwahlen.
 
 
-### Artikel 1 Nr. 5 – § 6 SGB V
-!!! info "Bisherige Rechtslage"
-    Abs. 1 Nr. 1 verweist auf die Jahresarbeitsentgeltgrenze „nach den Absätzen 6 oder 7". Abs. 6 regelt die jährliche Anpassung der allgemeinen Jahresarbeitsentgeltgrenze; Abs. 7 die besondere (niedrigere) Grenze für am 31.12.2002 bereits privat Versicherte. Abs. 8 ist derzeit „weggefallen".
+    ### Artikel 1 Nr. 4 – § 4a SGB V
+    !!! info "Bisherige Rechtslage"
+        Abs. 3 erlaubt Werbung der Krankenkassen unter drei Bedingungen (Werberecht, sachbezogene Information im Vordergrund, Formvereinbarkeit mit dem Status als Körperschaft öffentlichen Rechts), ohne betragsmäßige Obergrenze im Gesetz selbst. Abs. 4 Satz 1 Nr. 2 ermächtigt das BMG, per Rechtsverordnung „Höchstgrenzen für Werbeausgaben einschließlich der Aufwandsentschädigungen für externe Dienstleister" festzulegen.
 
-!!! success "Neue Regelung"
-    a) Verweis in Abs. 1 Nr. 1 wird um Abs. 8 ergänzt. b) Nach Abs. 6 Satz 2 wird eingefügt, dass die für 2027 turnusmäßig ermittelte Jahresarbeitsentgeltgrenze zusätzlich einmalig um 3.600 Euro angehoben wird. c) Abs. 7 Satz 2 wird neu gefasst (Verweis auf Abs. 6 Satz 2 und 4, gesonderte Festsetzung der besonderen Grenze durch Rechtsverordnung). d) Abs. 8 wird neu besetzt: Für am 31.12.2026 bereits wegen Überschreitens der bisherigen Grenze versicherungsfreie und privat Versicherte wird die Jahresarbeitsentgeltgrenze 2027 nicht um den Sondersprung erhöht (Bestandsschutz).
+    !!! success "Neue Regelung"
+        a) Abs. 3 erhält einen vierten Satz: Die Werbeausgaben einer Krankenkasse dürfen je Haushaltsjahr 0,075 % der monatlichen Bezugsgröße nach § 18 Abs. 1 SGB IV je Mitglied nicht überschreiten – eine gesetzlich fixierte Obergrenze. b) Abs. 4 Satz 1 Nr. 2 wird entsprechend verschlankt auf „Höchstgrenzen für Werbeausgaben für näher bestimmte Werbemaßnahmen" (die allgemeine Obergrenze steht nun im Gesetz selbst, die Verordnungsermächtigung betrifft nur noch spezifische Werbemaßnahmen).
 
-!!! warning "Auswirkung"
-    Die reguläre Versicherungspflichtgrenze steigt 2027 durch den zusätzlichen Sprung um 3.600 Euro deutlich stärker als üblich – dadurch bleiben mehr Besserverdienende länger in der GKV pflichtversichert, was der GKV zusätzliche Beitragseinnahmen sichert. Für bereits privat Versicherte greift eine Übergangsregelung, damit sie durch den Sondersprung nicht unfreiwillig in die GKV-Pflichtversicherung zurückfallen.
+    !!! warning "Auswirkung"
+        Erstmals gesetzlich fixierte, kassenindividuell berechnete Obergrenze für Werbe-/Marketingausgaben der Krankenkassen – eine direkte Sparmaßnahme, die den oft kritisierten Wettbewerb der Kassen um Mitglieder über teure Werbekampagnen begrenzt.
 
 
-### Artikel 1 Nr. 6 – § 8 Absatz 1 Satz 1 Nummer 1 SGB V
-!!! info "Bisherige Rechtslage"
-    Nr. 1 gewährt ein Befreiungsrecht von der Versicherungspflicht wegen Änderung der Jahresarbeitsentgeltgrenze „nach § 6 Abs. 6 Satz 2 oder Abs. 7".
+    ### Artikel 1 Nr. 5 – § 6 SGB V
+    !!! info "Bisherige Rechtslage"
+        Abs. 1 Nr. 1 verweist auf die Jahresarbeitsentgeltgrenze „nach den Absätzen 6 oder 7". Abs. 6 regelt die jährliche Anpassung der allgemeinen Jahresarbeitsentgeltgrenze; Abs. 7 die besondere (niedrigere) Grenze für am 31.12.2002 bereits privat Versicherte. Abs. 8 ist derzeit „weggefallen".
 
-!!! success "Neue Regelung"
-    Verweis wird angepasst auf „§ 6 Absatz 6 Satz 2 und 4, Absatz 7 oder 8".
+    !!! success "Neue Regelung"
+        a) Verweis in Abs. 1 Nr. 1 wird um Abs. 8 ergänzt. b) Nach Abs. 6 Satz 2 wird eingefügt, dass die für 2027 turnusmäßig ermittelte Jahresarbeitsentgeltgrenze zusätzlich einmalig um 3.600 Euro angehoben wird. c) Abs. 7 Satz 2 wird neu gefasst (Verweis auf Abs. 6 Satz 2 und 4, gesonderte Festsetzung der besonderen Grenze durch Rechtsverordnung). d) Abs. 8 wird neu besetzt: Für am 31.12.2026 bereits wegen Überschreitens der bisherigen Grenze versicherungsfreie und privat Versicherte wird die Jahresarbeitsentgeltgrenze 2027 nicht um den Sondersprung erhöht (Bestandsschutz).
 
-!!! warning "Auswirkung"
-    Rein konsequenzielle Anpassung an die neuen/geänderten Absätze in § 6 (insbesondere den neuen Abs. 8 und die Ergänzung in Abs. 6 um Satz 4). Stellt sicher, dass auch Personen, die durch die neuen Grenzwertänderungen 2027 erstmals oder erneut versicherungspflichtig werden, das Befreiungsrecht nutzen können. Keine eigenständige inhaltliche Neuregelung, sondern redaktionelle Folgeänderung.
+    !!! warning "Auswirkung"
+        Die reguläre Versicherungspflichtgrenze steigt 2027 durch den zusätzlichen Sprung um 3.600 Euro deutlich stärker als üblich – dadurch bleiben mehr Besserverdienende länger in der GKV pflichtversichert, was der GKV zusätzliche Beitragseinnahmen sichert. Für bereits privat Versicherte greift eine Übergangsregelung, damit sie durch den Sondersprung nicht unfreiwillig in die GKV-Pflichtversicherung zurückfallen.
 
 
-### Artikel 1 Nr. 7 – § 10 Absatz 6 SGB V
-!!! info "Bisherige Rechtslage"
-    Das Mitglied muss der Krankenkasse die für die Familienversicherung notwendigen Angaben sowie deren Änderungen melden; der GKV-Spitzenverband legt ein einheitliches Meldeverfahren fest.
+    ### Artikel 1 Nr. 6 – § 8 Absatz 1 Satz 1 Nummer 1 SGB V
+    !!! info "Bisherige Rechtslage"
+        Nr. 1 gewährt ein Befreiungsrecht von der Versicherungspflicht wegen Änderung der Jahresarbeitsentgeltgrenze „nach § 6 Abs. 6 Satz 2 oder Abs. 7".
 
-!!! success "Neue Regelung"
-    Die Meldepflicht wird erweitert um die „für die Durchführung der Familienversicherung und zur Feststellung der Voraussetzungen nach § 242b Satz 2 notwendigen Angaben".
+    !!! success "Neue Regelung"
+        Verweis wird angepasst auf „§ 6 Absatz 6 Satz 2 und 4, Absatz 7 oder 8".
 
-!!! warning "Auswirkung"
-    Konsequenzänderung zu Nr. 2 (neuer Beitragszuschlag für familienversicherte Ehegatten/Lebenspartner nach § 242b): Mitglieder müssen künftig zusätzlich die Daten melden, die zur Berechnung dieses Zuschlags erforderlich sind. Rein verfahrenstechnische Ergänzung ohne eigenständigen materiellen Regelungsgehalt.
+    !!! warning "Auswirkung"
+        Rein konsequenzielle Anpassung an die neuen/geänderten Absätze in § 6 (insbesondere den neuen Abs. 8 und die Ergänzung in Abs. 6 um Satz 4). Stellt sicher, dass auch Personen, die durch die neuen Grenzwertänderungen 2027 erstmals oder erneut versicherungspflichtig werden, das Befreiungsrecht nutzen können. Keine eigenständige inhaltliche Neuregelung, sondern redaktionelle Folgeänderung.
 
 
-### Artikel 1 Nr. 8 – § 11 Absatz 6 SGB V
-!!! info "Bisherige Rechtslage"
-    Krankenkassen dürfen in ihrer Satzung zusätzliche, vom G-BA nicht ausgeschlossene Leistungen in verschiedenen Bereichen (Vorsorge/Reha, Hebammenleistungen, künstliche Befruchtung, Zahnbehandlung ohne Zahnersatz, OTC-Arzneimittel, Heil-/Hilfsmittel, digitale Gesundheitsanwendungen, häusliche Krankenpflege, Haushaltshilfe, nicht zugelassene Leistungserbringer) vorsehen; eine Beschränkung für homöopathische/anthroposophische Leistungen existiert nicht.
+    ### Artikel 1 Nr. 7 – § 10 Absatz 6 SGB V
+    !!! info "Bisherige Rechtslage"
+        Das Mitglied muss der Krankenkasse die für die Familienversicherung notwendigen Angaben sowie deren Änderungen melden; der GKV-Spitzenverband legt ein einheitliches Meldeverfahren fest.
 
-!!! success "Neue Regelung"
-    Der Katalog bleibt im Kern erhalten, wird aber um einen neuen Schlusssatz ergänzt: „Homöopathische und anthroposophische Arzneimittel sowie homöopathische und anthroposophische Leistungen können nicht als zusätzliche Satzungsleistungen in der Satzung vorgesehen werden."
+    !!! success "Neue Regelung"
+        Die Meldepflicht wird erweitert um die „für die Durchführung der Familienversicherung und zur Feststellung der Voraussetzungen nach § 242b Satz 2 notwendigen Angaben".
 
-!!! warning "Auswirkung"
-    Wichtige, unmittelbar praxisrelevante Änderung: Krankenkassen, die bislang – wie viele es taten – homöopathische/anthroposophische Behandlungen und Arzneimittel als freiwillige Satzungsleistung erstatteten, dürfen dies künftig nicht mehr. Versicherte, die solche Leistungen bisher über Satzungsleistungen erhielten, verlieren diesen Anspruch; Anbieter entsprechender Leistungen (Homöopathen, Hersteller homöopathischer Arzneimittel) verlieren einen Absatzkanal über die GKV.
+    !!! warning "Auswirkung"
+        Konsequenzänderung zu Nr. 2 (neuer Beitragszuschlag für familienversicherte Ehegatten/Lebenspartner nach § 242b): Mitglieder müssen künftig zusätzlich die Daten melden, die zur Berechnung dieses Zuschlags erforderlich sind. Rein verfahrenstechnische Ergänzung ohne eigenständigen materiellen Regelungsgehalt.
 
 
-### Artikel 1 Nr. 9 – § 25 Absatz 4 SGB V
-!!! info "Bisherige Rechtslage"
-    Absatz 4 enthält u. a. frühere Fristen für den G-BA zur Ausgestaltung von Präventionsempfehlungen (bis 31.7.2016) und zur Erfassung/Bewertung gesundheitlicher Risiken bei Gesundheitsuntersuchungen (bis 31.7.2018); Satz 6 markiert das Ende dieses Regelungskomplexes.
+    ### Artikel 1 Nr. 8 – § 11 Absatz 6 SGB V
+    !!! info "Bisherige Rechtslage"
+        Krankenkassen dürfen in ihrer Satzung zusätzliche, vom G-BA nicht ausgeschlossene Leistungen in verschiedenen Bereichen (Vorsorge/Reha, Hebammenleistungen, künstliche Befruchtung, Zahnbehandlung ohne Zahnersatz, OTC-Arzneimittel, Heil-/Hilfsmittel, digitale Gesundheitsanwendungen, häusliche Krankenpflege, Haushaltshilfe, nicht zugelassene Leistungserbringer) vorsehen; eine Beschränkung für homöopathische/anthroposophische Leistungen existiert nicht.
 
-!!! success "Neue Regelung"
-    Nach Satz 6 werden neue Sätze eingefügt: Der G-BA muss seine Richtlinien zu Gesundheitsuntersuchungen (Altersgrenzen, Zielgruppen, Häufigkeit, Untersuchungsinhalte, mögliche Fokussierung auf Herz-Kreislauf-Erkrankungen) und zur Hautkrebs-Früherkennung (risikobasiertes Screening, Anpassung der Untersuchungshäufigkeit) auf Aktualität überprüfen und bis 31.12.2027 über eine Anpassung beschließen.
+    !!! success "Neue Regelung"
+        Der Katalog bleibt im Kern erhalten, wird aber um einen neuen Schlusssatz ergänzt: „Homöopathische und anthroposophische Arzneimittel sowie homöopathische und anthroposophische Leistungen können nicht als zusätzliche Satzungsleistungen in der Satzung vorgesehen werden."
 
-!!! warning "Auswirkung"
-    Kein unmittelbarer Leistungsanspruch wird geändert; der G-BA erhält einen gesetzlichen Prüf- und Entscheidungsauftrag mit Frist. Mittelfristig ist eine Neuausrichtung der Check-up-Untersuchungen (stärkerer Fokus auf Herz-Kreislauf-Risiken) und der Hautkrebs-Screenings (ggf. risikobasiert statt pauschal) zu erwarten – mit möglichen Auswirkungen auf Umfang und Zielgruppen dieser Vorsorgeleistungen ab 2028.
+    !!! warning "Auswirkung"
+        Wichtige, unmittelbar praxisrelevante Änderung: Krankenkassen, die bislang – wie viele es taten – homöopathische/anthroposophische Behandlungen und Arzneimittel als freiwillige Satzungsleistung erstatteten, dürfen dies künftig nicht mehr. Versicherte, die solche Leistungen bisher über Satzungsleistungen erhielten, verlieren diesen Anspruch; Anbieter entsprechender Leistungen (Homöopathen, Hersteller homöopathischer Arzneimittel) verlieren einen Absatzkanal über die GKV.
 
 
-### Artikel 1 Nr. 10 – § 27b SGB V (Zweitmeinung)
-!!! info "Bisherige Rechtslage"
-    Versicherte haben bei bestimmten, vom G-BA benannten planbaren Eingriffen Anspruch auf eine unabhängige ärztliche Zweitmeinung; der G-BA legt Anforderungen an Zweitmeinungserbringer fest; die einholende Ärztin/der Arzt muss aufklären. Eine finanzielle Sanktionierung bei fehlendem Zweitmeinungsnachweis existiert nicht.
+    ### Artikel 1 Nr. 9 – § 25 Absatz 4 SGB V
+    !!! info "Bisherige Rechtslage"
+        Absatz 4 enthält u. a. frühere Fristen für den G-BA zur Ausgestaltung von Präventionsempfehlungen (bis 31.7.2016) und zur Erfassung/Bewertung gesundheitlicher Risiken bei Gesundheitsuntersuchungen (bis 31.7.2018); Satz 6 markiert das Ende dieses Regelungskomplexes.
 
-!!! success "Neue Regelung"
-    § 27b wird vollständig neu gefasst. Neu ist insbesondere Absatz 3: Der Vergütungsanspruch des durchführenden Arztes/der Einrichtung gegenüber der Krankenkasse entfällt, wenn bei bestimmten, vom G-BA gesondert bestimmten Eingriffen kein Nachweis einer eingeholten Zweitmeinung vorliegt (erstmals mind. 1 Eingriff bis 31.3.2027, danach jährlich mind. 2 weitere). Absatz 6 verpflichtet den indikationsstellenden Arzt, den Versicherten bei diesen Eingriffen zusätzlich darüber aufzuklären, dass ohne Zweitmeinungsnachweis die Kosten vom Versicherten selbst zu tragen sind; die Aufklärungsfrist verlängert sich hierfür auf i. d. R. mindestens 15 Arbeitstage (statt 10).
+    !!! success "Neue Regelung"
+        Nach Satz 6 werden neue Sätze eingefügt: Der G-BA muss seine Richtlinien zu Gesundheitsuntersuchungen (Altersgrenzen, Zielgruppen, Häufigkeit, Untersuchungsinhalte, mögliche Fokussierung auf Herz-Kreislauf-Erkrankungen) und zur Hautkrebs-Früherkennung (risikobasiertes Screening, Anpassung der Untersuchungshäufigkeit) auf Aktualität überprüfen und bis 31.12.2027 über eine Anpassung beschließen.
 
-!!! warning "Auswirkung"
-    Deutliche Verschärfung des Zweitmeinungsverfahrens für ausgewählte, indikationsausweitungsgefährdete Eingriffe: Die Zweitmeinung wird für diese Eingriffe faktisch zur Vergütungsvoraussetzung für Ärzte/Kliniken, mit dem Risiko, dass Patienten bei fehlendem Nachweis die Kosten selbst tragen müssen. Betroffen sind Fachärzte/Kliniken, die planbare Eingriffe mit Mengenausweitungsrisiko durchführen (z. B. bestimmte Operationen), sowie Versicherte, die diese Eingriffe in Anspruch nehmen wollen – Ziel ist die Eindämmung medizinisch nicht zwingend gebotener Eingriffe und damit verbundener Ausgaben.
+    !!! warning "Auswirkung"
+        Kein unmittelbarer Leistungsanspruch wird geändert; der G-BA erhält einen gesetzlichen Prüf- und Entscheidungsauftrag mit Frist. Mittelfristig ist eine Neuausrichtung der Check-up-Untersuchungen (stärkerer Fokus auf Herz-Kreislauf-Risiken) und der Hautkrebs-Screenings (ggf. risikobasiert statt pauschal) zu erwarten – mit möglichen Auswirkungen auf Umfang und Zielgruppen dieser Vorsorgeleistungen ab 2028.
 
 
-### Artikel 1 Nr. 11 – § 28 SGB V
-!!! info "Bisherige Rechtslage"
-    Abs. 2 Satz 6/7: Kieferorthopädische Behandlung gehört nicht zur zahnärztlichen Behandlung, wenn der Versicherte zu Behandlungsbeginn das 18. Lebensjahr vollendet hat; Ausnahme bei schweren, kombiniert kieferchirurgisch/kieferorthopädisch zu behandelnden Kieferanomalien. Eine Qualifikationsanforderung an den behandelnden Vertragszahnarzt existiert insoweit nicht. Abs. 3 Satz 3 verlangt vor Beginn einer Psychotherapie stets einen Konsiliarbericht eines Vertragsarztes zur somatischen Abklärung.
+    ### Artikel 1 Nr. 10 – § 27b SGB V (Zweitmeinung)
+    !!! info "Bisherige Rechtslage"
+        Versicherte haben bei bestimmten, vom G-BA benannten planbaren Eingriffen Anspruch auf eine unabhängige ärztliche Zweitmeinung; der G-BA legt Anforderungen an Zweitmeinungserbringer fest; die einholende Ärztin/der Arzt muss aufklären. Eine finanzielle Sanktionierung bei fehlendem Zweitmeinungsnachweis existiert nicht.
 
-!!! success "Neue Regelung"
-    a) Sätze 6/7 werden neu gefasst: Kieferorthopädische Behandlung gehört künftig auch dann nicht zur zahnärztlichen Behandlung, wenn sie (1.) durch Vertragszahnärzte ohne Facharztanerkennung Kieferorthopädie, ohne gleichwertigen Abschluss oder ohne im Bundesmantelvertrag festgelegte ausreichende praktische Erfahrung erfolgt – die bisherige Alterserfassung (18. Lebensjahr, Nr. 2) bleibt mit gleicher Ausnahme für schwere Kieferanomalien erhalten. KZBV und GKV-Spitzenverband müssen binnen 6 Monaten nach Verkündung im Bundesmantelvertrag festlegen, welche Abschlüsse als gleichwertig gelten und welche Praxiserfahrung ausreicht (Anhörungsrecht der Bundeszahnärztekammer). b) Neuer Abs. 2a: Übergangsregelung – die alte Rechtslage gilt weiter für vor Fristablauf (4 Jahre nach Verkündung) begonnene Behandlungen sowie für Vertragszahnärzte, die vor Verkündung ein kieferorthopädisches Masterstudium abgeschlossen oder begonnen haben. c) Abs. 3: Kein Konsiliarbericht mehr erforderlich, wenn die Psychotherapie auf Überweisung eines Vertragsarztes oder auf Empfehlung eines Krankenhauses im Anschluss an psychiatrische/psychosomatische/psychotherapeutische Krankenhausbehandlung erfolgt.
+    !!! success "Neue Regelung"
+        § 27b wird vollständig neu gefasst. Neu ist insbesondere Absatz 3: Der Vergütungsanspruch des durchführenden Arztes/der Einrichtung gegenüber der Krankenkasse entfällt, wenn bei bestimmten, vom G-BA gesondert bestimmten Eingriffen kein Nachweis einer eingeholten Zweitmeinung vorliegt (erstmals mind. 1 Eingriff bis 31.3.2027, danach jährlich mind. 2 weitere). Absatz 6 verpflichtet den indikationsstellenden Arzt, den Versicherten bei diesen Eingriffen zusätzlich darüber aufzuklären, dass ohne Zweitmeinungsnachweis die Kosten vom Versicherten selbst zu tragen sind; die Aufklärungsfrist verlängert sich hierfür auf i. d. R. mindestens 15 Arbeitstage (statt 10).
 
-!!! warning "Auswirkung"
-    Kieferorthopädische GKV-Behandlung wird künftig grundsätzlich Fachzahnärzten bzw. vergleichbar qualifizierten Zahnärzten vorbehalten – allgemeine Vertragszahnärzte ohne entsprechende Qualifikation dürfen sie nicht mehr zulasten der GKV erbringen; großzügige Übergangsfristen (4 Jahre bzw. Bestandsschutz für laufende Studiengänge) schützen bestehende Behandlungen und Ausbildungswege. Bei der Psychotherapie entfällt für Patienten mit ärztlicher Überweisung bzw. nach stationärer psychiatrischer Behandlung eine bürokratische Hürde (Konsiliarbericht), was den Zugang beschleunigt.
+    !!! warning "Auswirkung"
+        Deutliche Verschärfung des Zweitmeinungsverfahrens für ausgewählte, indikationsausweitungsgefährdete Eingriffe: Die Zweitmeinung wird für diese Eingriffe faktisch zur Vergütungsvoraussetzung für Ärzte/Kliniken, mit dem Risiko, dass Patienten bei fehlendem Nachweis die Kosten selbst tragen müssen. Betroffen sind Fachärzte/Kliniken, die planbare Eingriffe mit Mengenausweitungsrisiko durchführen (z. B. bestimmte Operationen), sowie Versicherte, die diese Eingriffe in Anspruch nehmen wollen – Ziel ist die Eindämmung medizinisch nicht zwingend gebotener Eingriffe und damit verbundener Ausgaben.
 
 
-### Artikel 1 Nr. 12 – § 31 SGB V
-!!! info "Bisherige Rechtslage"
-    Abs. 1 Satz 1 gewährt Anspruch auf Versorgung mit apothekenpflichtigen Arzneimitteln, soweit diese nicht nach § 34 oder durch G-BA-Richtlinien ausgeschlossen sind; homöopathische/anthroposophische Arzneimittel sind nicht per se ausgeschlossen. Abs. 1a definiert Verbandmittel, ohne Gebührenpflicht für die G-BA-Herstellerberatung. Abs. 6/7 regeln getrennt den Cannabis-Leistungsanspruch (Abs. 6) und weitere Vorgaben zu Facharztgruppen ohne Genehmigungsvorbehalt (Abs. 7), ohne feste Entscheidungsfristen für die Kassen-Genehmigung.
+    ### Artikel 1 Nr. 11 – § 28 SGB V
+    !!! info "Bisherige Rechtslage"
+        Abs. 2 Satz 6/7: Kieferorthopädische Behandlung gehört nicht zur zahnärztlichen Behandlung, wenn der Versicherte zu Behandlungsbeginn das 18. Lebensjahr vollendet hat; Ausnahme bei schweren, kombiniert kieferchirurgisch/kieferorthopädisch zu behandelnden Kieferanomalien. Eine Qualifikationsanforderung an den behandelnden Vertragszahnarzt existiert insoweit nicht. Abs. 3 Satz 3 verlangt vor Beginn einer Psychotherapie stets einen Konsiliarbericht eines Vertragsarztes zur somatischen Abklärung.
 
-!!! success "Neue Regelung"
-    a) Abs. 1 Satz 1 schließt homöopathische und anthroposophische Arzneimittel nun ausdrücklich vom Versorgungsanspruch aus. b) Abs. 1a übernimmt die Verbandmitteldefinition inhaltlich, ergänzt aber eine Gebührenpflicht für die G-BA-Beratung von Herstellern sonstiger Wundbehandlungsprodukte. c) Abs. 6 und 7 werden zu einem neuen Abs. 6 zusammengeführt: Cannabis-Genehmigungsentscheidungen der Krankenkasse müssen künftig innerhalb von 2 Wochen (bzw. 4 Wochen bei eingeholter Stellungnahme, insbesondere MD, der seinerseits binnen 2 Wochen Stellung nimmt; 3 Tage bei Anschluss an § 37b-Versorgung oder Krankenhausaufenthalt) erfolgen; Verordnungen bestimmter, vom G-BA benannter Facharztgruppen sowie reine Dosisanpassungen/Extraktwechsel bedürfen keiner (erneuten) Genehmigung.
+    !!! success "Neue Regelung"
+        a) Sätze 6/7 werden neu gefasst: Kieferorthopädische Behandlung gehört künftig auch dann nicht zur zahnärztlichen Behandlung, wenn sie (1.) durch Vertragszahnärzte ohne Facharztanerkennung Kieferorthopädie, ohne gleichwertigen Abschluss oder ohne im Bundesmantelvertrag festgelegte ausreichende praktische Erfahrung erfolgt – die bisherige Alterserfassung (18. Lebensjahr, Nr. 2) bleibt mit gleicher Ausnahme für schwere Kieferanomalien erhalten. KZBV und GKV-Spitzenverband müssen binnen 6 Monaten nach Verkündung im Bundesmantelvertrag festlegen, welche Abschlüsse als gleichwertig gelten und welche Praxiserfahrung ausreicht (Anhörungsrecht der Bundeszahnärztekammer). b) Neuer Abs. 2a: Übergangsregelung – die alte Rechtslage gilt weiter für vor Fristablauf (4 Jahre nach Verkündung) begonnene Behandlungen sowie für Vertragszahnärzte, die vor Verkündung ein kieferorthopädisches Masterstudium abgeschlossen oder begonnen haben. c) Abs. 3: Kein Konsiliarbericht mehr erforderlich, wenn die Psychotherapie auf Überweisung eines Vertragsarztes oder auf Empfehlung eines Krankenhauses im Anschluss an psychiatrische/psychosomatische/psychotherapeutische Krankenhausbehandlung erfolgt.
 
-!!! warning "Auswirkung"
-    Homöopathische/anthroposophische Arzneimittel werden – konsequent zu Nr. 1 und Nr. 8 – auch aus dem regulären Arzneimittelanspruch nach § 31 herausgenommen; Versicherte, die solche Mittel bislang auf Kassenrezept erhielten, verlieren diesen Anspruch vollständig. Bei Cannabis-Therapien verbessert sich der Zugang durch feste, kurze Entscheidungsfristen und den Wegfall des Genehmigungsvorbehalts für bestimmte Fachärzte spürbar; Hersteller von Wundbehandlungsprodukten müssen künftig für G-BA-Beratungsleistungen zahlen.
+    !!! warning "Auswirkung"
+        Kieferorthopädische GKV-Behandlung wird künftig grundsätzlich Fachzahnärzten bzw. vergleichbar qualifizierten Zahnärzten vorbehalten – allgemeine Vertragszahnärzte ohne entsprechende Qualifikation dürfen sie nicht mehr zulasten der GKV erbringen; großzügige Übergangsfristen (4 Jahre bzw. Bestandsschutz für laufende Studiengänge) schützen bestehende Behandlungen und Ausbildungswege. Bei der Psychotherapie entfällt für Patienten mit ärztlicher Überweisung bzw. nach stationärer psychiatrischer Behandlung eine bürokratische Hürde (Konsiliarbericht), was den Zugang beschleunigt.
 
 
-### Artikel 1 Nr. 12a – § 33 Absatz 8 Satz 3 SGB V (NACHTRAG)
-> **Korrektur/Ergänzung:** Dieser Eintrag fehlte in der ursprünglichen Analyse vollständig. Ursache: Das Gesetz nummeriert einzelne Änderungen zwischen den Hauptnummern zusätzlich mit Buchstaben (hier "12a" zwischen Nr. 12 und Nr. 13); die ursprüngliche Bearbeitung war auf die Hauptnummern 1-15 fokussiert und hat diese Unternummer übersehen. Nachgetragen im Rahmen eines gezielten Audits.
+    ### Artikel 1 Nr. 12 – § 31 SGB V
+    !!! info "Bisherige Rechtslage"
+        Abs. 1 Satz 1 gewährt Anspruch auf Versorgung mit apothekenpflichtigen Arzneimitteln, soweit diese nicht nach § 34 oder durch G-BA-Richtlinien ausgeschlossen sind; homöopathische/anthroposophische Arzneimittel sind nicht per se ausgeschlossen. Abs. 1a definiert Verbandmittel, ohne Gebührenpflicht für die G-BA-Herstellerberatung. Abs. 6/7 regeln getrennt den Cannabis-Leistungsanspruch (Abs. 6) und weitere Vorgaben zu Facharztgruppen ohne Genehmigungsvorbehalt (Abs. 7), ohne feste Entscheidungsfristen für die Kassen-Genehmigung.
 
-!!! info "Bisherige Rechtslage"
-    § 33 Absatz 8 Satz 3 SGB V begrenzt die Zuzahlung der Versicherten für Hilfsmittel des täglichen Lebens (bzw. den betroffenen Hilfsmittel-Regelungskontext) auf einen Betrag von 10 Euro.
+    !!! success "Neue Regelung"
+        a) Abs. 1 Satz 1 schließt homöopathische und anthroposophische Arzneimittel nun ausdrücklich vom Versorgungsanspruch aus. b) Abs. 1a übernimmt die Verbandmitteldefinition inhaltlich, ergänzt aber eine Gebührenpflicht für die G-BA-Beratung von Herstellern sonstiger Wundbehandlungsprodukte. c) Abs. 6 und 7 werden zu einem neuen Abs. 6 zusammengeführt: Cannabis-Genehmigungsentscheidungen der Krankenkasse müssen künftig innerhalb von 2 Wochen (bzw. 4 Wochen bei eingeholter Stellungnahme, insbesondere MD, der seinerseits binnen 2 Wochen Stellung nimmt; 3 Tage bei Anschluss an § 37b-Versorgung oder Krankenhausaufenthalt) erfolgen; Verordnungen bestimmter, vom G-BA benannter Facharztgruppen sowie reine Dosisanpassungen/Extraktwechsel bedürfen keiner (erneuten) Genehmigung.
 
-!!! success "Neue Regelung"
-    Der Betrag wird von „10 Euro" auf „15 Euro" angehoben.
+    !!! warning "Auswirkung"
+        Homöopathische/anthroposophische Arzneimittel werden – konsequent zu Nr. 1 und Nr. 8 – auch aus dem regulären Arzneimittelanspruch nach § 31 herausgenommen; Versicherte, die solche Mittel bislang auf Kassenrezept erhielten, verlieren diesen Anspruch vollständig. Bei Cannabis-Therapien verbessert sich der Zugang durch feste, kurze Entscheidungsfristen und den Wegfall des Genehmigungsvorbehalts für bestimmte Fachärzte spürbar; Hersteller von Wundbehandlungsprodukten müssen künftig für G-BA-Beratungsleistungen zahlen.
 
-!!! warning "Auswirkung"
-    Unmittelbare Mehrbelastung der Versicherten um 5 Euro je betroffener Zuzahlung – eine kleine, aber konkrete zusätzliche Sparmaßnahme zulasten der Versicherten, die in der bisherigen Gesamtdarstellung des Gesetzes fehlte.
 
+    ### Artikel 1 Nr. 12a – § 33 Absatz 8 Satz 3 SGB V (NACHTRAG)
+    > **Korrektur/Ergänzung:** Dieser Eintrag fehlte in der ursprünglichen Analyse vollständig. Ursache: Das Gesetz nummeriert einzelne Änderungen zwischen den Hauptnummern zusätzlich mit Buchstaben (hier "12a" zwischen Nr. 12 und Nr. 13); die ursprüngliche Bearbeitung war auf die Hauptnummern 1-15 fokussiert und hat diese Unternummer übersehen. Nachgetragen im Rahmen eines gezielten Audits.
 
-### Artikel 1 Nr. 13 – § 34 SGB V
-!!! info "Bisherige Rechtslage"
-    Abs. 1 Satz 3 verpflichtet den G-BA, eine online abrufbare, elektronisch weiterverarbeitbare und regelmäßig aktualisierte Liste der verordnungsfähigen (ausnahmsweise erstattungsfähigen) OTC-Fertigarzneimittel zu erstellen. Abs. 3 Satz 2 verpflichtet dazu, bei der Beurteilung von Arzneimitteln besonderer Therapierichtungen (homöopathisch, phytotherapeutisch, anthroposophisch) im Rahmen von OTC-Ausschlussentscheidungen deren besonderer Wirkungsweise Rechnung zu tragen.
+    !!! info "Bisherige Rechtslage"
+        § 33 Absatz 8 Satz 3 SGB V begrenzt die Zuzahlung der Versicherten für Hilfsmittel des täglichen Lebens (bzw. den betroffenen Hilfsmittel-Regelungskontext) auf einen Betrag von 10 Euro.
 
-!!! success "Neue Regelung"
-    Beide Sätze werden ersatzlos gestrichen.
+    !!! success "Neue Regelung"
+        Der Betrag wird von „10 Euro" auf „15 Euro" angehoben.
 
-!!! warning "Auswirkung"
-    a) Abs. 1 Satz 3: Wegfall der expliziten gesetzlichen Pflicht zur Online-Veröffentlichung der Ausnahmeliste – eher redaktionell/deregulierend, kann aber die Transparenz für Versicherte und Ärzte über erstattungsfähige OTC-Ausnahmen mindern. b) Abs. 3 Satz 2: Weiterer Baustein der Zurückdrängung besonderer Therapierichtungen – die besondere Rücksichtnahmepflicht auf die Wirkungsweise homöopathischer/phytotherapeutischer/anthroposophischer Mittel bei OTC-Ausschlussentscheidungen entfällt, was Ausschlüsse dieser Mittelgruppen erleichtert.
+    !!! warning "Auswirkung"
+        Unmittelbare Mehrbelastung der Versicherten um 5 Euro je betroffener Zuzahlung – eine kleine, aber konkrete zusätzliche Sparmaßnahme zulasten der Versicherten, die in der bisherigen Gesamtdarstellung des Gesetzes fehlte.
 
 
-### Artikel 1 Nr. 14 – § 35a SGB V (frühe Nutzenbewertung)
-!!! info "Bisherige Rechtslage"
-    Abs. 1 Satz 3 Nr. 7 verlangt vom pharmazeutischen Unternehmer Angaben zur Zahl der Studienteilnehmer an deutschen Prüfstellen im Verhältnis zur Gesamtteilnehmerzahl. Abs. 1d regelt ein gesondertes Verfahren, mit dem Hersteller auf Antrag vorab (durch IQWiG-Bewertung und G-BA-Beschluss, je binnen 2 Monaten) klären lassen können, ob eine Wirkstoffkombination einen mindestens beträchtlichen Zusatznutzen erwarten lässt. Abs. 3 Sätze 4-6 regeln Details zum Beschluss über Kombinationstherapien und zur Dokumentation des Anteils deutscher Prüfstellen bei ab 2025 eingeführten Arzneimitteln.
+    ### Artikel 1 Nr. 13 – § 34 SGB V
+    !!! info "Bisherige Rechtslage"
+        Abs. 1 Satz 3 verpflichtet den G-BA, eine online abrufbare, elektronisch weiterverarbeitbare und regelmäßig aktualisierte Liste der verordnungsfähigen (ausnahmsweise erstattungsfähigen) OTC-Fertigarzneimittel zu erstellen. Abs. 3 Satz 2 verpflichtet dazu, bei der Beurteilung von Arzneimitteln besonderer Therapierichtungen (homöopathisch, phytotherapeutisch, anthroposophisch) im Rahmen von OTC-Ausschlussentscheidungen deren besonderer Wirkungsweise Rechnung zu tragen.
 
-!!! success "Neue Regelung"
-    a) Nr. 7 in Abs. 1 Satz 3 wird gestrichen; Nr. 6 erhält eine rein redaktionelle Anpassung (Interpunktion am Aufzählungsende). b) Abs. 1d wird vollständig gestrichen. c) Abs. 3 Sätze 4-6 werden gestrichen.
+    !!! success "Neue Regelung"
+        Beide Sätze werden ersatzlos gestrichen.
 
-!!! warning "Auswirkung"
-    Bürokratieentlastung im AMNOG-Verfahren der frühen Nutzenbewertung: Pharmaunternehmen müssen keine Angaben zum Anteil deutscher Studienteilnehmer mehr liefern, und das gesonderte Vorab-Verfahren zur Bewertung des Zusatznutzens von Wirkstoffkombinationen entfällt komplett samt zugehöriger Dokumentationspflichten. Das vereinfacht die Dossiererstellung für Hersteller, reduziert aber zugleich ein Instrument zur frühzeitigen Klärung des Zusatznutzens bei Kombinationstherapien, was für Preisverhandlungen relevant sein kann.
+    !!! warning "Auswirkung"
+        a) Abs. 1 Satz 3: Wegfall der expliziten gesetzlichen Pflicht zur Online-Veröffentlichung der Ausnahmeliste – eher redaktionell/deregulierend, kann aber die Transparenz für Versicherte und Ärzte über erstattungsfähige OTC-Ausnahmen mindern. b) Abs. 3 Satz 2: Weiterer Baustein der Zurückdrängung besonderer Therapierichtungen – die besondere Rücksichtnahmepflicht auf die Wirkungsweise homöopathischer/phytotherapeutischer/anthroposophischer Mittel bei OTC-Ausschlussentscheidungen entfällt, was Ausschlüsse dieser Mittelgruppen erleichtert.
 
 
-### Artikel 1 Nr. 15 – § 36 SGB V (Festbeträge für Hilfsmittel)
-!!! info "Bisherige Rechtslage"
-    Der GKV-Spitzenverband bestimmt geeignete Hilfsmittelgruppen und setzt einheitliche Festbeträge fest; Hersteller/Leistungserbringer müssen auf Verlangen Auskünfte (insbesondere zu Abgabepreisen) erteilen; im Übrigen gelten die Verfahrensvorschriften des § 35 Abs. 5 und 7 (Arzneimittel-Festbeträge) entsprechend. Eine eigenständige, detaillierte Kalkulationsmethodik sowie feste Überprüfungsfristen fehlen; Abs. 4 ist weggefallen.
+    ### Artikel 1 Nr. 14 – § 35a SGB V (frühe Nutzenbewertung)
+    !!! info "Bisherige Rechtslage"
+        Abs. 1 Satz 3 Nr. 7 verlangt vom pharmazeutischen Unternehmer Angaben zur Zahl der Studienteilnehmer an deutschen Prüfstellen im Verhältnis zur Gesamtteilnehmerzahl. Abs. 1d regelt ein gesondertes Verfahren, mit dem Hersteller auf Antrag vorab (durch IQWiG-Bewertung und G-BA-Beschluss, je binnen 2 Monaten) klären lassen können, ob eine Wirkstoffkombination einen mindestens beträchtlichen Zusatznutzen erwarten lässt. Abs. 3 Sätze 4-6 regeln Details zum Beschluss über Kombinationstherapien und zur Dokumentation des Anteils deutscher Prüfstellen bei ab 2025 eingeführten Arzneimitteln.
 
-!!! success "Neue Regelung"
-    § 36 wird vollständig neu gefasst und erheblich ausgeweitet (5 Absätze): Abs. 1 wie bisher, ergänzt um ein Verbot der Übermittlung einrichtungsbezogener Daten an Herstellerverbände. Abs. 2 normiert detaillierte, ggf. anonymisiert/aggregiert zu übermittelnde Datenpflichten (Umsatz-/Absatzzahlen, Abgabepreise inkl. Rabatte, Kalkulationszuschläge, Stundenverrechnungssätze etc.), Geheimnisschutzpflichten des Spitzenverbands sowie eine Schätzungsbefugnis bei unvollständigen Daten. Abs. 3 (neu) verpflichtet zum Erlass einer BMG-genehmigungspflichtigen Verfahrensordnung binnen 6 Monaten nach Verkündung. Abs. 4 (neu) legt eine konkrete Kalkulationsmethodik fest (Festbetrag orientiert an der oberen Preislinie des preisgünstigsten Marktdrittels), mit Überprüfung mindestens alle 3 Jahre sowie außerplanmäßiger Überprüfung bei starken Preissteigerungen (Verbraucherpreisindex +7 % in drei Folgemonaten, max. 2 Anträge pro Zeitraum). Abs. 5 regelt Bekanntmachung und Rechtsschutz (kein Suspensiveffekt, kein Vorverfahren, kein gesonderter Rechtsschutz gegen Gruppenbildung/Verfahrensschritte).
+    !!! success "Neue Regelung"
+        a) Nr. 7 in Abs. 1 Satz 3 wird gestrichen; Nr. 6 erhält eine rein redaktionelle Anpassung (Interpunktion am Aufzählungsende). b) Abs. 1d wird vollständig gestrichen. c) Abs. 3 Sätze 4-6 werden gestrichen.
 
-!!! warning "Auswirkung"
-    Grundlegende Neuordnung der Festbetragsbildung für Hilfsmittel (z. B. Inkontinenz-, Verband-, Hör-, Seh- und Mobilitätshilfen): Hersteller und Leistungserbringer unterliegen künftig weitreichenden, gesetzlich fixierten Auskunfts- und Datenübermittlungspflichten; die neue „unteres Drittel"-Preisformel dürfte tendenziell zu niedrigeren Festbeträgen führen und übt damit Preisdruck auf die Hilfsmittelbranche aus. Für Versicherte besteht das Risiko, dass bei sinkenden Festbeträgen entweder die Auswahl an aufzahlungsfreien Produkten schrumpft oder Zuzahlungen steigen; zugleich soll die dreijährige Überprüfungspflicht verhindern, dass Festbeträge veralten. Der eingeschränkte Rechtsschutz erschwert es Herstellern/Leistungserbringern, gegen einzelne Festsetzungsschritte gerichtlich vorzugehen.
+    !!! warning "Auswirkung"
+        Bürokratieentlastung im AMNOG-Verfahren der frühen Nutzenbewertung: Pharmaunternehmen müssen keine Angaben zum Anteil deutscher Studienteilnehmer mehr liefern, und das gesonderte Vorab-Verfahren zur Bewertung des Zusatznutzens von Wirkstoffkombinationen entfällt komplett samt zugehöriger Dokumentationspflichten. Das vereinfacht die Dossiererstellung für Hersteller, reduziert aber zugleich ein Instrument zur frühzeitigen Klärung des Zusatznutzens bei Kombinationstherapien, was für Preisverhandlungen relevant sein kann.
 
+
+    ### Artikel 1 Nr. 15 – § 36 SGB V (Festbeträge für Hilfsmittel)
+    !!! info "Bisherige Rechtslage"
+        Der GKV-Spitzenverband bestimmt geeignete Hilfsmittelgruppen und setzt einheitliche Festbeträge fest; Hersteller/Leistungserbringer müssen auf Verlangen Auskünfte (insbesondere zu Abgabepreisen) erteilen; im Übrigen gelten die Verfahrensvorschriften des § 35 Abs. 5 und 7 (Arzneimittel-Festbeträge) entsprechend. Eine eigenständige, detaillierte Kalkulationsmethodik sowie feste Überprüfungsfristen fehlen; Abs. 4 ist weggefallen.
+
+    !!! success "Neue Regelung"
+        § 36 wird vollständig neu gefasst und erheblich ausgeweitet (5 Absätze): Abs. 1 wie bisher, ergänzt um ein Verbot der Übermittlung einrichtungsbezogener Daten an Herstellerverbände. Abs. 2 normiert detaillierte, ggf. anonymisiert/aggregiert zu übermittelnde Datenpflichten (Umsatz-/Absatzzahlen, Abgabepreise inkl. Rabatte, Kalkulationszuschläge, Stundenverrechnungssätze etc.), Geheimnisschutzpflichten des Spitzenverbands sowie eine Schätzungsbefugnis bei unvollständigen Daten. Abs. 3 (neu) verpflichtet zum Erlass einer BMG-genehmigungspflichtigen Verfahrensordnung binnen 6 Monaten nach Verkündung. Abs. 4 (neu) legt eine konkrete Kalkulationsmethodik fest (Festbetrag orientiert an der oberen Preislinie des preisgünstigsten Marktdrittels), mit Überprüfung mindestens alle 3 Jahre sowie außerplanmäßiger Überprüfung bei starken Preissteigerungen (Verbraucherpreisindex +7 % in drei Folgemonaten, max. 2 Anträge pro Zeitraum). Abs. 5 regelt Bekanntmachung und Rechtsschutz (kein Suspensiveffekt, kein Vorverfahren, kein gesonderter Rechtsschutz gegen Gruppenbildung/Verfahrensschritte).
+
+    !!! warning "Auswirkung"
+        Grundlegende Neuordnung der Festbetragsbildung für Hilfsmittel (z. B. Inkontinenz-, Verband-, Hör-, Seh- und Mobilitätshilfen): Hersteller und Leistungserbringer unterliegen künftig weitreichenden, gesetzlich fixierten Auskunfts- und Datenübermittlungspflichten; die neue „unteres Drittel"-Preisformel dürfte tendenziell zu niedrigeren Festbeträgen führen und übt damit Preisdruck auf die Hilfsmittelbranche aus. Für Versicherte besteht das Risiko, dass bei sinkenden Festbeträgen entweder die Auswahl an aufzahlungsfreien Produkten schrumpft oder Zuzahlungen steigen; zugleich soll die dreijährige Überprüfungspflicht verhindern, dass Festbeträge veralten. Der eingeschränkte Rechtsschutz erschwert es Herstellern/Leistungserbringern, gegen einzelne Festsetzungsschritte gerichtlich vorzugehen.

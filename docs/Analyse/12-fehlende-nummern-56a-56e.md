@@ -1,67 +1,78 @@
 # Nachtrag: Fehlende Änderungspunkte Nr. 12a und 56a–56e (Lücke bei der Aufgabenteilung)
 
-**Anlass:** Bei einer gezielten, kostengünstigen Nachprüfung (Grep nach dem Muster "neue[r] Satz/Sätze", das beim bereits korrigierten Psychotherapie-Fund in [11-psychotherapie-honorar-angemessenheitspruefung.md](11-psychotherapie-honorar-angemessenheitspruefung.md) half) wurde zusätzlich ein anderer, strukturell bedingter Fehler entdeckt: Das Gesetz nummeriert einzelne Änderungspunkte teils mit Buchstaben-Unternummern (z. B. "56a", "56b" zwischen den Hauptnummern 56 und 57). Bei der ursprünglichen Aufteilung der Analysearbeit auf mehrere parallele Durchgänge wurden die Arbeitsbereiche anhand von Zahlenbereichen wie "Nr. 39–56" bzw. "Nr. 57–72" abgegrenzt – Unternummern, die zwischen zwei Hauptnummern liegen, wurden dabei in zwei von neun Fällen übersehen.
+## 🎯 Zusammenfassung: Was bedeutet das konkret?
 
-**Vollständige Bestandsaufnahme:** Das Gesetz enthält insgesamt 9 solcher Unternummern: `0a` (Art. 7 KVLG), `12a` (Art. 1), `56a`–`56e` (Art. 1), `65a` (Art. 1), `67a` (Art. 1). Davon waren `0a`, `65a` und `67a` bereits in den bestehenden Analysen (08, 04) korrekt erfasst. **Fehlend waren `12a`** (jetzt in [01-sgb5-leistungsrecht-teil1.md](01-sgb5-leistungsrecht-teil1.md) nachgetragen) **sowie `56a` bis `56e`**, die hier nachgeholt werden.
+Ein technischer Nachtrag zu Qualitätskriterien für Krankenhäuser.
 
-Die fünf Nachträge liegen im SGB V zwischen § 134a (Nr. 56) und § 140a (Nr. 57) und wären thematisch in [03-sgb5-wirtschaftlichkeit-arzneimittel-teil3.md](03-sgb5-wirtschaftlichkeit-arzneimittel-teil3.md) einzuordnen gewesen.
-
-## Artikel 1 Nr. 56a – § 135e Absatz 1 SGB V (Qualitätskriterien Leistungsgruppen)
-
-!!! success "Neue Regelung"
-    Nach Satz 2 wird eingefügt: „Die Qualitätskriterien nach Satz 1 Nummer 2 Buchstabe c) haben sich insbesondere auf das ärztliche Personal und das Pflegepersonal zu beziehen.“
-
-!!! warning "Auswirkung"
-    Konkretisiert die Qualitätskriterien für die Leistungsgruppen-Zuordnung von Krankenhäusern (Anlage 1, vgl. bereits in [04-sgb5-finanzen-sonstiges-teil4.md](04-sgb5-finanzen-sonstiges-teil4.md) qualitativ eingeordnet) dahingehend, dass Personalausstattung (ärztlich und pflegerisch) explizit als Kriterium heranzuziehen ist.
-
-*Hinweis zur Quellentiefe: Der genaue Wortlaut der bisherigen Fassung von § 135e Absatz 1 wurde aus Kostengründen nicht per Primärquelle einzeln nachgeschlagen; die Einordnung stützt sich auf den Kontext im Gesetzestext selbst.*
-
-## Artikel 1 Nr. 56b – § 137e Absatz 7 Satz 6 SGB V (Erprobungsstudien)
-
-!!! success "Neue Regelung"
-    Satz 6 wird ersetzt durch: „Abweichend von Absatz 5 Satz 2 hat der Antragsteller eine unabhängige wissenschaftliche Institution auf eigene Kosten mit der wissenschaftlichen Begleitung und Auswertung der Erprobung zu beauftragen, es sei denn, er nimmt seinen Antrag zurück oder der Gemeinsame Bundesausschuss beschließt eine Beauftragung nach Absatz 5 Satz 1 und Absatz 6.“
-
-!!! warning "Auswirkung"
-    Regelt die Kostenverantwortung für die wissenschaftliche Begleitung von Erprobungsstudien neuer Untersuchungs-/Behandlungsmethoden (§ 137e-Verfahren): Der Antragsteller (i. d. R. Medizinproduktehersteller oder Leistungserbringer) muss die unabhängige wissenschaftliche Auswertung grundsätzlich selbst beauftragen und finanzieren, außer der G-BA übernimmt dies selbst.
-
-*Hinweis zur Quellentiefe: wie bei 56a nicht einzeln primärquellenseitig verifiziert.*
-
-## Artikel 1 Nr. 56c – § 137h SGB V (NEU gefasst, Absatz 1 und 2)
-
-**Bisherige Rechtslage (Kontext, nicht einzeln verifiziert):** § 137h regelt das Verfahren, mit dem Krankenhäuser den Gemeinsamen Bundesausschuss (G-BA) über neue Untersuchungs- und Behandlungsmethoden informieren müssen, die maßgeblich auf dem Einsatz eines Medizinprodukts hoher Risikoklasse beruhen.
-
-!!! success "Neue Regelung"
-    Absatz 1 wird vollständig neu gefasst und deutlich ausgeweitet: Die Meldepflicht des Krankenhauses gilt künftig für **alle** neuen Methoden, die nicht allein auf der Gabe eines Arzneimittels beruhen (nicht mehr nur Medizinprodukte hoher Risikoklasse) – konsistent mit der bereits in [07-verordnungen.md](07-verordnungen.md) dokumentierten Ausweitung der (umbenannten) Medizinproduktemethodenbewertungsverordnung. Der G-BA muss künftig innerhalb von drei Monaten bewerten, ob (1) der Nutzen der Methode hinreichend belegt ist, (2) der Nutzen noch nicht belegt ist, die Methode aber Potential als Behandlungsalternative bietet, oder (3) kein Potential besteht (z. B. weil schädlich/unwirksam). Eine vertiefte Bewertung erfolgt nur noch, wenn die Methode ein neues theoretisch-wissenschaftliches Konzept aufweist. Das Nähere regelt eine bis spätestens drei Monate nach Verkündung zu erlassende Verfahrensordnung. Absatz 2 wird redaktionell an die neue Absatz-1-Struktur angepasst (Verweis „Absatz 1 Satz 2“ → „Absatz 1 Satz 3“ u. Ä.).
-
-!!! warning "Auswirkung"
-    Erheblich erweiterter Anwendungsbereich der Meldepflicht (nicht mehr nur Hochrisiko-Medizinprodukte, sondern praktisch alle neuen nicht-medikamentösen Methoden) bei gleichzeitig gestraffter, dreistufiger Bewertungslogik des G-BA. Für Krankenhäuser und Medizinproduktehersteller bedeutet das mehr Meldepflichten, aber ein klareres, schnelleres Bewertungsverfahren als zuvor.
+- 🧍 **Für normale Menschen / Patient:innen:** 
+  - Regelt im Hintergrund, welche Anforderungen ein Krankenhaus erfüllen muss, um bestimmte Behandlungen abrechnen zu dürfen.
+- 👩‍⚕️ **Für Therapeut:innen, Ärzt:innen & Kliniken:**
+  - **Verschärfte Vorgaben:** Die ärztliche und pflegerische Personalausstattung wird zu einem noch zentraleren Kriterium für die Zuordnung von Leistungsgruppen gemacht.
 
 
-## Artikel 1 Nr. 56d – § 137i Absatz 5 SGB V (Sanktionen bei Pflegepersonaluntergrenzen)
+??? note "Juristische Details & Paragraphen-Vergleich aufklappen"
+    **Anlass:** Bei einer gezielten, kostengünstigen Nachprüfung (Grep nach dem Muster "neue[r] Satz/Sätze", das beim bereits korrigierten Psychotherapie-Fund in [11-psychotherapie-honorar-angemessenheitspruefung.md](11-psychotherapie-honorar-angemessenheitspruefung.md) half) wurde zusätzlich ein anderer, strukturell bedingter Fehler entdeckt: Das Gesetz nummeriert einzelne Änderungspunkte teils mit Buchstaben-Unternummern (z. B. "56a", "56b" zwischen den Hauptnummern 56 und 57). Bei der ursprünglichen Aufteilung der Analysearbeit auf mehrere parallele Durchgänge wurden die Arbeitsbereiche anhand von Zahlenbereichen wie "Nr. 39–56" bzw. "Nr. 57–72" abgegrenzt – Unternummern, die zwischen zwei Hauptnummern liegen, wurden dabei in zwei von neun Fällen übersehen.
 
-!!! success "Neue Regelung"
-    Absatz 5 wird ersetzt: Hält ein Krankenhaus die verbindlichen Pflegepersonaluntergrenzen (aus Vereinbarung, Verordnung oder der Pflegepersonaluntergrenzen-Verordnung) ohne anerkannten Ausnahme- oder Übergangstatbestand nicht ein, müssen die Vertragsparteien Sanktionen in Form von Vergütungsabschlägen oder Fallzahlverringerung vereinbaren – proportional zum Grad der Unterschreitung, ggf. ergänzt um Auflagen zur Personalgewinnung; in begründeten Ausnahmefällen kann eine Aussetzung bereits vereinbarter Sanktionen erfolgen.
+    **Vollständige Bestandsaufnahme:** Das Gesetz enthält insgesamt 9 solcher Unternummern: `0a` (Art. 7 KVLG), `12a` (Art. 1), `56a`–`56e` (Art. 1), `65a` (Art. 1), `67a` (Art. 1). Davon waren `0a`, `65a` und `67a` bereits in den bestehenden Analysen (08, 04) korrekt erfasst. **Fehlend waren `12a`** (jetzt in [01-sgb5-leistungsrecht-teil1.md](01-sgb5-leistungsrecht-teil1.md) nachgetragen) **sowie `56a` bis `56e`**, die hier nachgeholt werden.
 
-!!! warning "Auswirkung"
-    Der Sanktionsmechanismus bei Unterschreitung der Pflegepersonaluntergrenzen wird präzisiert und verbindlicher ausgestaltet (klare Verhältnismäßigkeitsvorgabe, Pflicht zur regelmäßigen Überprüfung der Sanktionsvereinbarung). Bemerkenswert im Gesamtkontext: Diese Verschärfung der *Untergrenzen*-Sanktionierung steht neben der in [07-verordnungen.md](07-verordnungen.md) dokumentierten **ersatzlosen Aufhebung** der Pflegepersonal**bemessungs**verordnung (PPBV) sowie der hier folgenden Vereinfachung des § 137k (Nr. 56e) – in der Zusammenschau wird die *Mindest*-Personalausstattung (Untergrenzen) tendenziell strenger sanktioniert, während die darüberhinausgehende, bedarfsorientierte *Bemessung* (PPBV, § 137k a. F.) an regulatorischer Tiefe verliert.
+    Die fünf Nachträge liegen im SGB V zwischen § 134a (Nr. 56) und § 140a (Nr. 57) und wären thematisch in [03-sgb5-wirtschaftlichkeit-arzneimittel-teil3.md](03-sgb5-wirtschaftlichkeit-arzneimittel-teil3.md) einzuordnen gewesen.
+
+    ## Artikel 1 Nr. 56a – § 135e Absatz 1 SGB V (Qualitätskriterien Leistungsgruppen)
+
+    !!! success "Neue Regelung"
+        Nach Satz 2 wird eingefügt: „Die Qualitätskriterien nach Satz 1 Nummer 2 Buchstabe c) haben sich insbesondere auf das ärztliche Personal und das Pflegepersonal zu beziehen.“
+
+    !!! warning "Auswirkung"
+        Konkretisiert die Qualitätskriterien für die Leistungsgruppen-Zuordnung von Krankenhäusern (Anlage 1, vgl. bereits in [04-sgb5-finanzen-sonstiges-teil4.md](04-sgb5-finanzen-sonstiges-teil4.md) qualitativ eingeordnet) dahingehend, dass Personalausstattung (ärztlich und pflegerisch) explizit als Kriterium heranzuziehen ist.
+
+    *Hinweis zur Quellentiefe: Der genaue Wortlaut der bisherigen Fassung von § 135e Absatz 1 wurde aus Kostengründen nicht per Primärquelle einzeln nachgeschlagen; die Einordnung stützt sich auf den Kontext im Gesetzestext selbst.*
+
+    ## Artikel 1 Nr. 56b – § 137e Absatz 7 Satz 6 SGB V (Erprobungsstudien)
+
+    !!! success "Neue Regelung"
+        Satz 6 wird ersetzt durch: „Abweichend von Absatz 5 Satz 2 hat der Antragsteller eine unabhängige wissenschaftliche Institution auf eigene Kosten mit der wissenschaftlichen Begleitung und Auswertung der Erprobung zu beauftragen, es sei denn, er nimmt seinen Antrag zurück oder der Gemeinsame Bundesausschuss beschließt eine Beauftragung nach Absatz 5 Satz 1 und Absatz 6.“
+
+    !!! warning "Auswirkung"
+        Regelt die Kostenverantwortung für die wissenschaftliche Begleitung von Erprobungsstudien neuer Untersuchungs-/Behandlungsmethoden (§ 137e-Verfahren): Der Antragsteller (i. d. R. Medizinproduktehersteller oder Leistungserbringer) muss die unabhängige wissenschaftliche Auswertung grundsätzlich selbst beauftragen und finanzieren, außer der G-BA übernimmt dies selbst.
+
+    *Hinweis zur Quellentiefe: wie bei 56a nicht einzeln primärquellenseitig verifiziert.*
+
+    ## Artikel 1 Nr. 56c – § 137h SGB V (NEU gefasst, Absatz 1 und 2)
+
+    **Bisherige Rechtslage (Kontext, nicht einzeln verifiziert):** § 137h regelt das Verfahren, mit dem Krankenhäuser den Gemeinsamen Bundesausschuss (G-BA) über neue Untersuchungs- und Behandlungsmethoden informieren müssen, die maßgeblich auf dem Einsatz eines Medizinprodukts hoher Risikoklasse beruhen.
+
+    !!! success "Neue Regelung"
+        Absatz 1 wird vollständig neu gefasst und deutlich ausgeweitet: Die Meldepflicht des Krankenhauses gilt künftig für **alle** neuen Methoden, die nicht allein auf der Gabe eines Arzneimittels beruhen (nicht mehr nur Medizinprodukte hoher Risikoklasse) – konsistent mit der bereits in [07-verordnungen.md](07-verordnungen.md) dokumentierten Ausweitung der (umbenannten) Medizinproduktemethodenbewertungsverordnung. Der G-BA muss künftig innerhalb von drei Monaten bewerten, ob (1) der Nutzen der Methode hinreichend belegt ist, (2) der Nutzen noch nicht belegt ist, die Methode aber Potential als Behandlungsalternative bietet, oder (3) kein Potential besteht (z. B. weil schädlich/unwirksam). Eine vertiefte Bewertung erfolgt nur noch, wenn die Methode ein neues theoretisch-wissenschaftliches Konzept aufweist. Das Nähere regelt eine bis spätestens drei Monate nach Verkündung zu erlassende Verfahrensordnung. Absatz 2 wird redaktionell an die neue Absatz-1-Struktur angepasst (Verweis „Absatz 1 Satz 2“ → „Absatz 1 Satz 3“ u. Ä.).
+
+    !!! warning "Auswirkung"
+        Erheblich erweiterter Anwendungsbereich der Meldepflicht (nicht mehr nur Hochrisiko-Medizinprodukte, sondern praktisch alle neuen nicht-medikamentösen Methoden) bei gleichzeitig gestraffter, dreistufiger Bewertungslogik des G-BA. Für Krankenhäuser und Medizinproduktehersteller bedeutet das mehr Meldepflichten, aber ein klareres, schnelleres Bewertungsverfahren als zuvor.
 
 
-## Artikel 1 Nr. 56e – §§ 137k bis 137n SGB V → neuer § 137k (deregulierende Zusammenlegung)
+    ## Artikel 1 Nr. 56d – § 137i Absatz 5 SGB V (Sanktionen bei Pflegepersonaluntergrenzen)
 
-!!! info "Bisherige Rechtslage"
-    §§ 137k–137n SGB V bilden aktuell ein mehrstufiges Regelungsregime zur Personalbemessung in der Pflege im Krankenhaus: Verpflichtung zu „angemessener Personalausstattung“, Erhebung und Übermittlung von Ist- und Soll-Personaldaten, ein wissenschaftliches Bemessungskonzept mit Erprobungsphasen, eine Verordnungsermächtigung für konkrete Vorgaben sowie eigene Sanktionsmechanismen bei Nichterfüllung (verifiziert über gesetze-im-internet.de/sgb_5/__137k.html).
+    !!! success "Neue Regelung"
+        Absatz 5 wird ersetzt: Hält ein Krankenhaus die verbindlichen Pflegepersonaluntergrenzen (aus Vereinbarung, Verordnung oder der Pflegepersonaluntergrenzen-Verordnung) ohne anerkannten Ausnahme- oder Übergangstatbestand nicht ein, müssen die Vertragsparteien Sanktionen in Form von Vergütungsabschlägen oder Fallzahlverringerung vereinbaren – proportional zum Grad der Unterschreitung, ggf. ergänzt um Auflagen zur Personalgewinnung; in begründeten Ausnahmefällen kann eine Aussetzung bereits vereinbarter Sanktionen erfolgen.
 
-
-!!! success "Neue Regelung"
-    Alle vier Paragraphen (§§ 137k, 137l, 137m, 137n) werden gestrichen und durch einen einzigen, neuen § 137k ersetzt, der nur noch zwei Sätze umfasst: „Die zugelassenen Krankenhäuser [...] sind verpflichtet, eine bedarfsgerechte Personalausstattung in Bereichen der unmittelbaren Patientenversorgung im Krankenhaus sicherzustellen. Sie haben die zu diesem Zweck erforderlichen Maßnahmen zu treffen.“
-
-
-!!! warning "Auswirkung"
-    Dies ist der gewichtigste der fünf nachgetragenen Punkte. Das bisherige, datengestützte Bemessungs- und Verordnungsregime für Pflegepersonal im Krankenhaus wird durch eine allgemeine, unbestimmte Generalklausel ersetzt – ohne Erhebungspflicht, ohne Verordnungsermächtigung für konkrete Zahlenvorgaben, ohne die bisherigen eigenständigen Sanktionsmechanismen der §§ 137l–137n. In Kombination mit der bereits in [07-verordnungen.md](07-verordnungen.md) dokumentierten Aufhebung der Pflegepersonalbemessungsverordnung (Artikel 6c) und der in Nr. 56d nur teilweise kompensierenden Verschärfung der Pflegepersonal*untergrenzen*-Sanktionen (§ 137i) ergibt sich in der Zusammenschau ein deutlich klareres Bild als bisher dokumentiert: Das Gesetz baut die über Jahre aufgebaute, datenbasierte Personalbemessungsinfrastruktur in der Krankenhauspflege weitgehend zurück und ersetzt sie durch eine kaum justiziable Generalklausel. Dies ist ein direkter, bislang unterschätzter Baustein zu der bereits in [10-psychiatrie-psychotherapie-gesellschaftliche-folgen.md](10-psychiatrie-psychotherapie-gesellschaftliche-folgen.md) und [09-auswirkungen-auf-pkv-versicherte.md](09-auswirkungen-auf-pkv-versicherte.md) beschriebenen Sorge um sinkende Pflegequalität in der gemeinsam genutzten Krankenhausinfrastruktur.
+    !!! warning "Auswirkung"
+        Der Sanktionsmechanismus bei Unterschreitung der Pflegepersonaluntergrenzen wird präzisiert und verbindlicher ausgestaltet (klare Verhältnismäßigkeitsvorgabe, Pflicht zur regelmäßigen Überprüfung der Sanktionsvereinbarung). Bemerkenswert im Gesamtkontext: Diese Verschärfung der *Untergrenzen*-Sanktionierung steht neben der in [07-verordnungen.md](07-verordnungen.md) dokumentierten **ersatzlosen Aufhebung** der Pflegepersonal**bemessungs**verordnung (PPBV) sowie der hier folgenden Vereinfachung des § 137k (Nr. 56e) – in der Zusammenschau wird die *Mindest*-Personalausstattung (Untergrenzen) tendenziell strenger sanktioniert, während die darüberhinausgehende, bedarfsorientierte *Bemessung* (PPBV, § 137k a. F.) an regulatorischer Tiefe verliert.
 
 
-## Einordnung
+    ## Artikel 1 Nr. 56e – §§ 137k bis 137n SGB V → neuer § 137k (deregulierende Zusammenlegung)
 
-Diese fünf Nachträge ändern die in [README.md](README.md) gezogene Gesamtbilanz an einer Stelle deutlich: Die Deregulierung der Pflegepersonalbemessung im Krankenhaus ist nicht auf die Aufhebung der PPBV (Artikel 6c) beschränkt, sondern wird durch die praktisch vollständige Ausdünnung der §§ 137k–137n SGB V (Nr. 56e) noch verstärkt. Das war in der bisherigen Zusammenfassung nicht sichtbar.
+    !!! info "Bisherige Rechtslage"
+        §§ 137k–137n SGB V bilden aktuell ein mehrstufiges Regelungsregime zur Personalbemessung in der Pflege im Krankenhaus: Verpflichtung zu „angemessener Personalausstattung“, Erhebung und Übermittlung von Ist- und Soll-Personaldaten, ein wissenschaftliches Bemessungskonzept mit Erprobungsphasen, eine Verordnungsermächtigung für konkrete Vorgaben sowie eigene Sanktionsmechanismen bei Nichterfüllung (verifiziert über gesetze-im-internet.de/sgb_5/__137k.html).
 
-**Methodische Konsequenz:** Der ursprüngliche Fehler (übersehene Unternummern) ist ein anderer Fehlertyp als der satzverschiebungsbedingte Psychotherapie-Fund, aber ebenso systematisch: Beide entstehen dadurch, dass die Aufteilung/Zusammenfassung sich an einer vereinfachten Gliederungslogik orientierte (Zahlenbereiche bzw. paraphrasierte Satzzusammenfassungen), die die tatsächliche, unregelmäßige Nummerierung/Satzstruktur der Drucksache nicht vollständig abbildet.
+
+    !!! success "Neue Regelung"
+        Alle vier Paragraphen (§§ 137k, 137l, 137m, 137n) werden gestrichen und durch einen einzigen, neuen § 137k ersetzt, der nur noch zwei Sätze umfasst: „Die zugelassenen Krankenhäuser [...] sind verpflichtet, eine bedarfsgerechte Personalausstattung in Bereichen der unmittelbaren Patientenversorgung im Krankenhaus sicherzustellen. Sie haben die zu diesem Zweck erforderlichen Maßnahmen zu treffen.“
+
+
+    !!! warning "Auswirkung"
+        Dies ist der gewichtigste der fünf nachgetragenen Punkte. Das bisherige, datengestützte Bemessungs- und Verordnungsregime für Pflegepersonal im Krankenhaus wird durch eine allgemeine, unbestimmte Generalklausel ersetzt – ohne Erhebungspflicht, ohne Verordnungsermächtigung für konkrete Zahlenvorgaben, ohne die bisherigen eigenständigen Sanktionsmechanismen der §§ 137l–137n. In Kombination mit der bereits in [07-verordnungen.md](07-verordnungen.md) dokumentierten Aufhebung der Pflegepersonalbemessungsverordnung (Artikel 6c) und der in Nr. 56d nur teilweise kompensierenden Verschärfung der Pflegepersonal*untergrenzen*-Sanktionen (§ 137i) ergibt sich in der Zusammenschau ein deutlich klareres Bild als bisher dokumentiert: Das Gesetz baut die über Jahre aufgebaute, datenbasierte Personalbemessungsinfrastruktur in der Krankenhauspflege weitgehend zurück und ersetzt sie durch eine kaum justiziable Generalklausel. Dies ist ein direkter, bislang unterschätzter Baustein zu der bereits in [10-psychiatrie-psychotherapie-gesellschaftliche-folgen.md](10-psychiatrie-psychotherapie-gesellschaftliche-folgen.md) und [09-auswirkungen-auf-pkv-versicherte.md](09-auswirkungen-auf-pkv-versicherte.md) beschriebenen Sorge um sinkende Pflegequalität in der gemeinsam genutzten Krankenhausinfrastruktur.
+
+
+    ## Einordnung
+
+    Diese fünf Nachträge ändern die in [README.md](README.md) gezogene Gesamtbilanz an einer Stelle deutlich: Die Deregulierung der Pflegepersonalbemessung im Krankenhaus ist nicht auf die Aufhebung der PPBV (Artikel 6c) beschränkt, sondern wird durch die praktisch vollständige Ausdünnung der §§ 137k–137n SGB V (Nr. 56e) noch verstärkt. Das war in der bisherigen Zusammenfassung nicht sichtbar.
+
+    **Methodische Konsequenz:** Der ursprüngliche Fehler (übersehene Unternummern) ist ein anderer Fehlertyp als der satzverschiebungsbedingte Psychotherapie-Fund, aber ebenso systematisch: Beide entstehen dadurch, dass die Aufteilung/Zusammenfassung sich an einer vereinfachten Gliederungslogik orientierte (Zahlenbereiche bzw. paraphrasierte Satzzusammenfassungen), die die tatsächliche, unregelmäßige Nummerierung/Satzstruktur der Drucksache nicht vollständig abbildet.
