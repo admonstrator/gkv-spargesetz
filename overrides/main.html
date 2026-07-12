@@ -8,6 +8,24 @@
 
 {% block extrahead %}
   {{ super() }}
+  
+  <!-- SEO und Open Graph Meta Tags -->
+  <meta name="description" content="{{ config.site_description }}">
+  
+  <!-- Open Graph (Facebook, LinkedIn, Discord etc.) -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title | default(config.site_name, true) }}">
+  <meta property="og:description" content="{{ config.site_description }}">
+  <meta property="og:url" content="{{ config.site_url }}{{ page.url }}">
+  <meta property="og:image" content="{{ config.site_url }}og.webp">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title | default(config.site_name, true) }}">
+  <meta name="twitter:description" content="{{ config.site_description }}">
+  <meta name="twitter:image" content="{{ config.site_url }}og.webp">
+  
+  <!-- Cache Control (DSGVO / Reload erzwingen) -->
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">

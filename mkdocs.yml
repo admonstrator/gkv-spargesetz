@@ -1,5 +1,6 @@
-site_name: GKV-Spargesetz (2026) – Analyse & Informationsaufarbeitung
-site_description: Zentrale Sammlung aller Änderungen am GKV-Spargesetz, deren Folgen und Materialien für Bürger und Fachleute.
+site_name: GKV-Spargesetz - Informationsaufarbeitung
+site_description: "Dieses Projekt macht die komplexen Änderungen des GKV-Beitragssatzstabilisierungsgesetzes transparent. Es bietet eine detaillierte Gegenüberstellung aller Paragraphen & was diese für Bürger:innen bedeuten."
+site_url: "https://admonstrator.github.io/gkv-spargesetz/"
 theme:
   name: material
   custom_dir: overrides
