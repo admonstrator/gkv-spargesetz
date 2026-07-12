@@ -12,6 +12,14 @@ Das GKV-Spargesetz ist das bisher weitreichendste Eingreifen in die Finanzierung
 
 <div class="grid cards" markdown>
 
+-   :material-timer-sand: __Das Gesetz in 3 Minuten (Für Eilige)__
+
+    ---
+
+    Keine Lust auf lange Texte? Hier finden Sie alle Änderungen, deren Auswirkungen und die Pro/Contra-Argumente in kompakter Form. Absolut für Laien verständlich!
+
+    [:material-arrow-right-circle: Zur Schnellübersicht](Zusammenfassungen/kompakt.md)
+
 -   :material-account-heart: __Für Versicherte__
 
     ---
