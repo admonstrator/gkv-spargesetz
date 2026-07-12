@@ -2,9 +2,6 @@
 
 Willkommen im zentralen Informationsportal zum **GKV-Beitragssatzstabilisierungsgesetz** (verabschiedet am 10.07.2026).
 
-!!! warning "⚠️ Wichtiger Hinweis: KI-generierte Inhalte"
-    Die Analysen und Zusammenfassungen in diesem Projekt wurden maschinell durch Künstliche Intelligenz (AI) erstellt. Auch wenn wir uns um höchste Sorgfalt bemühen, **wurden die juristischen Auswertungen bisher nicht durch menschliche Anwälte oder Fachexperten abschließend verifiziert**. Bitte verwenden Sie die Informationen mit entsprechender Vorsicht und prüfen Sie die verlinkten Originaltexte im Zweifel selbst nach.
-
 Dieses Projekt macht die teils extrem komplexen gesetzlichen Änderungen transparent, analysiert deren Folgen für das Gesundheitswesen und bietet Werkzeuge an, um politisch und gesellschaftlich aktiv zu werden.
 
 Das GKV-Spargesetz ist das bisher weitreichendste Eingreifen in die Finanzierung der Gesetzlichen Krankenversicherung in diesem Jahrzehnt. Es beinhaltet nicht nur Beitragserhöhungen, sondern massive Strukturänderungen und Kürzungen.

@@ -2,6 +2,7 @@ site_name: GKV-Spargesetz (2026) – Analyse & Aktionsbündnis
 site_description: Zentrale Sammlung aller Änderungen am GKV-Spargesetz, deren Folgen und Materialien für Bürger und Fachleute.
 theme:
   name: material
+  custom_dir: overrides
   language: de
   features:
     - navigation.tabs
