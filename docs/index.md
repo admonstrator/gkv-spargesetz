@@ -1,4 +1,4 @@
-# GKV-Spargesetz (2026) – Analyse & Aktionsbündnis
+# GKV-Spargesetz (2026) – Analyse & Informationsaufarbeitung
 
 Willkommen im zentralen Informationsportal zum **GKV-Beitragssatzstabilisierungsgesetz** (verabschiedet am 10.07.2026).
 
