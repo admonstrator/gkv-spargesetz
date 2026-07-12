@@ -1,0 +1,19 @@
+- 51 -
+
+Drucksache 256/26
+
+## Begründung
+
+### A. Allgemeiner Teil
+
+#### I. Zielsetzung und Notwendigkeit der Regelungen
+
+Die gesetzliche Krankenversicherung (GKV) steht vor enormen finanziellen Herausforderungen. Seit Ende 2023 hat sich die finanzielle Lage der GKV enorm verschlechtert. Im Jahr 2024 wiesen die Krankenkassen und der Gesundheitsfonds ein Defizit von insgesamt knapp 10 Milliarden Euro aus. Die Finanzreserven der Krankenkassen und des Gesundheitsfonds sind aufgebraucht. Trotz eines Überschusses im Jahr 2025 in Höhe von rund 3,5 Milliarden Euro infolge der hohen Beitragssatzsteigerungen zum Jahresbeginn 2025 liegen die Rücklagen der Krankenkassen mit rund 5,2 Milliarden Euro weiterhin unterhalb der gesetzlichen Mindestreserve. Nur mithilfe eines Bundesdarlehen an den Gesundheitsfonds in Höhe von 2,3 Milliarden Euro im Oktober 2025 konnte eine Absenkung der Liquidität des Gesundheitsfonds unter die gesetzliche Mindestreserve vermieden werden.
+
+Die dramatische Finanzlage der GKV hat in den vergangenen Jahren zu historisch starken Anstiegen der Zusatzbeitragssätze geführt. Während der durchschnittlicherhobene Zusatzbeitragssatz im Jahr 2022 noch bei rund 1,4 Prozent lag, hat er sich zum 1. Januar 2025 auf etwa 2,9 Prozent mehr als verdoppelt. Nur mit einem kurzfristigen Maßnahmenpaket der neuen Bundesregierung, welches Entlastungen der gesetzlichen Krankenversicherung im Umfang von bis zu 10 Milliarden Euro beinhaltet, konnte der durchschnittliche ausgabendeckende Zusatzbeitragssatz in 2026 auf diesem Niveau gehalten werden: Neben zusätzlichen Darlehen von 4,6 Milliarden Euro für 2025 und 2026 an den Gesundheitsfonds wurde das in 2026 zur Rückzahlung anstehende Darlehen von 1,0 Milliarde Euro aus dem Jahr 2023 bis 2033 gestundet. Ferner wurde auf eine Steuerfinanzierung des Transformationsfonds (statt der im Krankenhausversorgungsverbesserungsgesetz vorgesehenen Beitragsfinanzierung) umgestellt, was zu einer jährlichen Entlastung der GKV von 2,5 Milliarden Euro jährlich über 10 Jahre führt. Zudem wurde mit dem Gesetz zur Befugniserweiterung und Entbürokratisierung in der Pflege ein Sparpaket im Umfang von bis zu 2,0 Milliarden Euro umgesetzt.
+
+Der größte Teil dieser Maßnahmen wirkt jedoch nur einmalig in 2026. Die strukturelle Deckungslücke wächst daher jedes Jahr weiter auf, da die Ausgaben der GKV weiterhin deutlich stärker steigen als die Einnahmen. Daher ist auch für die kommenden Jahre mit einem deutlichen Anstieg des durchschnittlichen ausgabendeckenden Zusatzbeitragssatzes zu rechnen.
+
+Hauptursache dafür ist eine extrem beschleunigte Ausgabenentwicklung, die deutlich oberhalb der Zuwächse bei den Einnahmen liegt: Die Leistungsausgaben stiegen 2024 um 8,2 Prozent – ein Rekordwert in den letzten drei Dekaden. Auch 2025 bleibt die Ausgabendynamik mit einem Anstieg von knapp 8 Prozent unverändert auf einem Rekordniveau.
+
+Die vom Bundesministerium für Gesundheit eingesetzte FinanzKommission Gesundheit (FKG) hat die Ausgabenbereiche der GKV analysiert und dabei herausgearbeitet, dass der wesentliche Treiber der historisch hohen Ausgabenzuwächse bei den Leistungsausgaben der GKV eine ausgeprägte Preisdynamik ist. Diese ist zum einen auch auf Nachwirkungen der hohen Inflation der Jahre 2022 und 2023 zurückzuführen, die sich in der GKV teilweise erst zeitverzögert bemerkbar macht. Entscheidender ist jedoch, dass sich in vielen Bereichen des Gesundheitswesens Preis-, Lohn- und Vergütungssteigerungen von der Einnahmenentwicklung in der GKV entkoppelt haben, da der Gesetzgeber über die letzten 10 bis 15 Jahre in nahezu allen Leistungsbereichen die Begrenzung der Vergütungszuwächse auf

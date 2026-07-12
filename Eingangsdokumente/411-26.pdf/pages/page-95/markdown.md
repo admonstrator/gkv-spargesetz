@@ -1,0 +1,11 @@
+Drucksache 411/26
+
+– 93 –
+
+|  Leistungsgruppen-Nummer | Leistungsgruppe (LG) |  | Anforderungsbereiche |   |   |   |   | Sonstige Struktur- und Prozessvoraussetzungen  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |  Erbringung verwandter LG |   | Sachliche Ausstattung | Personelle Ausstattung  |   |   |
+|   |   |   |  Standort | Kooperation |   | Qualifikation | Verfügbarkeit  |   |
+|  61 | Lungen-transplantation | Mindestivoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Komplexe Pneumologie LG Herzchirurgie oder LG Thoraxchirurgie |  | Herz-Lungen-Maschine, Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Herzchirurgie, FA Thoraxchirurgie, ZW Transplantationsmedizin | Für FA Herzchirurgie und ein FA Thoraxchirurgie, mindestens Rufbereitschaft jederzeit oder drei FA Thoraxchirurgie und ein FA Herzchirurgie, mindestens Rufbereitschaft jederzeit davon mindestens ein FA mit ZW Transplantationsmedizin |   |
+|   |   |  Auswahlkriterium |  |  | ECMO | FA Kinder- und Jugendmedizin mit ZW Transplantationsmedizin |  |   |
+|  62 | Nierentransplantation | Mindestivoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex LGB LG Komplexe Nephrologie oder LG Urologie oder LGB LG Endoplegie LGB LG Nephrologie oder LG Nephropoedipide oder LG Tiefe Rektum-eingriffe | LG Komplexe Nephrologie LG Urologie Mindestens eine der folgenden LG: LG Barisische Chirurgie oder LG Lebereingriffe oder LG Ösophagegeingriffe oder LG Parkinsongeingriffe oder LG Tiefe Rektum-eingriffe | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie, FA Urologie FA Innere Medizin und Nephrologie ZW Transplantationsmedizin | Neun FA, mindestens Rufbereitschaft jederzeit davon mindestens drei FA Viszeralchirurgie, drei FA Urologie und drei FA Innere Medizin und Nephrologie, davon mindestens ein FA mit ZW Transplantationsmedizin |   |

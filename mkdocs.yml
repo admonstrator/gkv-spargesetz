@@ -1,0 +1,57 @@
+site_name: GKV-Spargesetz (2026) – Analyse & Aktionsbündnis
+site_description: Zentrale Sammlung aller Änderungen am GKV-Spargesetz, deren Folgen und Materialien für Bürger und Fachleute.
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Dunkelmodus aktivieren
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Hellen Modus aktivieren
+plugins:
+  - search
+
+nav:
+  - Startseite: README.md
+  - 📌 Zusammenfassungen:
+    - Für Versicherte: Zusammenfassungen/versicherte.md
+    - Für Psychotherapeuten: Zusammenfassungen/psychotherapie.md
+    - Für Kliniken & Pflege: Zusammenfassungen/kliniken.md
+  - 📢 Aktiv werden:
+    - Übersicht: Aktionsmaterial/README.md
+    - Abgeordnete anschreiben: Aktionsmaterial/abgeordnete-anschreiben.md
+    - Beschwerde bei der Kasse: Aktionsmaterial/beschwerde-krankenkasse.md
+  - 🔬 Tiefe Analyse:
+    - Analyse-Übersicht: Analyse/README.md
+    - 1. Leistungsrecht: Analyse/01-sgb5-leistungsrecht-teil1.md
+    - 2. Versorgung & Vergütung: Analyse/02-sgb5-versorgung-verguetung-teil2.md
+    - 3. Wirtschaftlichkeit & Arzneimittel: Analyse/03-sgb5-wirtschaftlichkeit-arzneimittel-teil3.md
+    - 4. Finanzen & Sonstiges: Analyse/04-sgb5-finanzen-sonstiges-teil4.md
+    - 5. Teilarbeitsunfähigkeit: Analyse/05-sgb-folgeaenderungen-teilarbeitsunfaehigkeit.md
+    - 6. Krankenhausfinanzierung: Analyse/06-krankenhausfinanzierung.md
+    - 7. Verordnungen: Analyse/07-verordnungen.md
+    - 8. Landwirtschaft & KSVG: Analyse/08-landwirtschaft-kuenstlersozialversicherung.md
+    - 9. PKV-Versicherte: Analyse/09-auswirkungen-auf-pkv-versicherte.md
+    - 10. Psychiatrie & Psychotherapie: Analyse/10-psychiatrie-psychotherapie-gesellschaftliche-folgen.md
+    - 11. Korrektur Psychotherapie: Analyse/11-psychotherapie-honorar-angemessenheitspruefung.md
+    - 12. Nachtrag Unternummern: Analyse/12-fehlende-nummern-56a-56e.md
+  - 📂 Original-Dokumente:
+    - Chronologie: Eingangsdokumente/README.md
+  - Entwickler-Transfer: TRANSFER.md
+
+docs_dir: .

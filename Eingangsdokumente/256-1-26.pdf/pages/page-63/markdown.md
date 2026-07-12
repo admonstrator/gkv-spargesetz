@@ -1,0 +1,12 @@
+- 63 -
+
+Empfehlungen, 256/1/26
+
+sowie die Rückführung der Tariferhöhungsrate auf 50 Prozent von den Krankenhäusern nicht zu stemmen sind.
+
+c) Der Bundesrat erkennt an, dass die Pflegepersonalkosten in den Jahren 2020 bis 2024 überproportional angestiegen sind, allerdings von einem unterdurchschnittlichen Ausgangsniveau. Die Einführung der Pflegebudgets für das Pflegepersonal in Krankenhäusern war ein wesentlicher Reformschritt in der Krankenhausfinanzierung, da damit eine Abkehr vom pauschalen Finanzierungssystem hin zum Selbstkostendeckungsprinzip verbunden war. Ziel war es, die Personalausstattung sowie die Arbeitsbedingungen in der Krankenhauspflege nachhaltig zu verbessern, um dem steigenden Bedarf an Pflegeleistungen gerecht zu werden und zugleich die Attraktivität des Pflegeberufs zu erhöhen. Auch im Rahmen notwendiger Einsparmaßnahmen dürfen diese Zielsetzungen nicht aus dem Blick geraten.
+d) Der Bundesrat stellt fest, dass der Krankenhaussektor daher zwingend darauf angewiesen ist, bei den laufenden Betriebskosten rasch und nachhaltig entlastet zu werden. Hierfür müssen die Krankenhäuser massiv von überbordenden bürokratischen Anforderungen entlastet werden.
+e) Der Bundesrat fordert die Bundesregierung daher auf, ergänzend zum GKV-Beitragssatzstabilisierungsgesetz umgehend ein Gesetz zum Abbau bürokratischer Vorgaben im gesamten Gesundheitssektor, vor allem im Krankenhausbereich, auf den Weg zu bringen.
+f) Der Bundesrat fordert die Bundesregierung auf, die Ausweitung der Prüfungen durch den Medizinischen Dienst (MD) insgesamt deutlich bürokratieärmer auszugestalten. Der Bundesrat erkennt an, dass in der Sache ein Bedürfnis zur Anpassung der Prüfungen durch den MD besteht, um die Solidargemeinschaft zu entlasten. Die derzeit vorgesehene Anhebung der Schwellenwerte für die Festlegung der Prüfquote und des Prüfgegenstandes führen zu einer erheblichen Ausweitung des bürokratischen Aufwands, sowohl bei den Krankenhäusern, aber auch bei dem mit den Prüfungen zu beauftragenden MD. Anstelle der geplanten Änderung der Prüfquoten des MD sowie der Ausweitung der Abrechnungsprüfungen könnten die Ergebnisse methodisch sauberer, valider Stichprobenprüfungen des MD auf die Gesamterlöse der betroffenen Kliniken hochgerechnet werden, wie es im Koalitionsvertrag der Bundesregierung vorgesehen ist.
+
+...
