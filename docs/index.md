@@ -2,29 +2,93 @@
 
 Willkommen im zentralen Informationsportal zum **GKV-Beitragssatzstabilisierungsgesetz** (verabschiedet am 10.07.2026).
 
+!!! warning "⚠️ Wichtiger Hinweis: KI-generierte Inhalte"
+    Die Analysen und Zusammenfassungen in diesem Projekt wurden maschinell durch Künstliche Intelligenz (AI) erstellt. Auch wenn wir uns um höchste Sorgfalt bemühen, **wurden die juristischen Auswertungen bisher nicht durch menschliche Anwälte oder Fachexperten abschließend verifiziert**. Bitte verwenden Sie die Informationen mit entsprechender Vorsicht und prüfen Sie die verlinkten Originaltexte im Zweifel selbst nach.
+
 Dieses Projekt macht die teils extrem komplexen gesetzlichen Änderungen transparent, analysiert deren Folgen für das Gesundheitswesen und bietet Werkzeuge an, um politisch und gesellschaftlich aktiv zu werden.
 
-## Worum geht es?
-Das GKV-Spargesetz ist das bisher weitreichendste Eingreifen in die Finanzierung der Gesetzlichen Krankenversicherung in diesem Jahrzehnt. Es beinhaltet nicht nur Beitragserhöhungen, sondern massive Strukturänderungen und Kürzungen (unter anderem in Krankenhäusern, bei der Psychotherapie, Zahnersatz und Pflege).
-
-Um den Diskurs nicht nur Fachjuristen zu überlassen, haben wir den Original-Gesetzestext (§ für §) übersetzt, analysiert und aufbereitet.
+Das GKV-Spargesetz ist das bisher weitreichendste Eingreifen in die Finanzierung der Gesetzlichen Krankenversicherung in diesem Jahrzehnt. Es beinhaltet nicht nur Beitragserhöhungen, sondern massive Strukturänderungen und Kürzungen.
 
 ---
 
 ## 🎯 Wie betrifft mich das?
-Wir haben die tiefgreifenden juristischen Analysen für verschiedene Gruppen verständlich zusammengefasst:
 
-- 👤 **[Für Versicherte](Zusammenfassungen/versicherte.md):** Höhere Kosten, weniger Leistungen – was auf Sie zukommt.
-- 🛋️ **[Für Psychotherapeuten & Patienten](Zusammenfassungen/psychotherapie.md):** Warum die Budgetierung und der Wegfall der Angemessenheitsprüfung die Versorgung bedrohen.
-- 🏥 **[Für Kliniken & Pflege](Zusammenfassungen/kliniken.md):** Die Halbierung der Tarifrefinanzierung und Deregulierung in der Pflege.
+<div class="grid cards" markdown>
+
+-   :material-account-heart: __Für Versicherte__
+
+    ---
+
+    Höhere Kosten, weniger Leistungen – was auf Sie zukommt. Die Kassen dürfen Zusatzbeiträge verlangen und Leistungen wurden gestrichen.
+
+    [:material-arrow-right-circle: Mehr lesen](Zusammenfassungen/versicherte.md)
+
+-   :material-brain: __Für Psychotherapeuten__
+
+    ---
+
+    Warum die Budgetierung und der Wegfall der Angemessenheitsprüfung die Versorgung bedrohen. Praxen und Patienten sind betroffen.
+
+    [:material-arrow-right-circle: Mehr lesen](Zusammenfassungen/psychotherapie.md)
+
+-   :material-hospital-building: __Für Kliniken & Pflege__
+
+    ---
+
+    Die Halbierung der Tarifrefinanzierung und Deregulierung in der Pflege. Was das für Personal und Patientensicherheit bedeutet.
+
+    [:material-arrow-right-circle: Mehr lesen](Zusammenfassungen/kliniken.md)
+
+</div>
+
+---
 
 ## 📢 Was kann ich tun?
+
 Sie möchten die Änderungen nicht schweigend hinnehmen? In unserem Bereich **"Aktiv werden"** finden Sie konkrete Handlungsoptionen:
 
-- ✍️ **[Abgeordnete anschreiben](Aktionsmaterial/abgeordnete-anschreiben.md):** Textvorlagen für Mails und Briefe an Ihren Bundestags- oder Landtagsabgeordneten.
-- ✉️ **[Beschwerde bei der Krankenkasse](Aktionsmaterial/beschwerde-krankenkasse.md):** Vorlagen, um bei Leistungskürzungen oder Beitragserhöhungen formell Protest einzulegen.
+<div class="grid cards" markdown>
+
+-   :material-email-edit: __Abgeordnete anschreiben__
+
+    ---
+
+    Textvorlagen für Mails und Briefe an Ihren Bundestags- oder Landtagsabgeordneten, um politischen Druck aufzubauen.
+
+    [:material-arrow-right-circle: Zu den Vorlagen](Aktionsmaterial/abgeordnete-anschreiben.md)
+
+-   :material-file-document-edit: __Beschwerde einlegen__
+
+    ---
+
+    Vorlagen, um bei der Krankenkasse gegen Leistungskürzungen oder neue Beitragszuschläge formell Protest einzulegen.
+
+    [:material-arrow-right-circle: Zu den Beschwerden](Aktionsmaterial/beschwerde-krankenkasse.md)
+
+</div>
+
+---
 
 ## 🔬 Für Experten: Die Tiefe Analyse
-Wer es genau wissen will, findet im **[Analyse-Bereich](Analyse/README.md)** den detaillierten Abgleich aller ca. 90 Einzeländerungen mit dem bisherigen Recht. Wir haben hier das SGB V, KHEntgG, SGB III bis XII und viele weitere Gesetze Stück für Stück durchleuchtet.
 
-Ebenso finden Sie unter **[Original-Dokumente](Eingangsdokumente/README.md)** die gesamte chronologische Historie der Bundestags- und Bundesratsdrucksachen.
+Wer es genau wissen will, findet detaillierte juristische Analysen und alle Quellen:
+
+<div class="grid cards" markdown>
+
+-   :material-scale-balance: __Analyse aller Änderungen__
+
+    ---
+
+    Der detaillierte Abgleich aller ca. 90 Einzeländerungen mit dem bisherigen Recht (§ für §).
+
+    [:material-arrow-right-circle: Zur Analyse](Analyse/README.md)
+
+-   :material-file-pdf-box: __Original-Dokumente__
+
+    ---
+
+    Die gesamte chronologische Historie der Bundestags- und Bundesratsdrucksachen im Volltext.
+
+    [:material-arrow-right-circle: Zu den Quellen](Eingangsdokumente/README.md)
+
+</div>
