@@ -7,22 +7,39 @@ Artikel 3 bis 5 ändern die drei zentralen Regelwerke der Krankenhausvergütung:
 ## Einzeländerungen
 
 ### Artikel 3 Nr. 1 – § 5 Absatz 3g KHEntgG
-**Bisherige Rechtslage:** § 5 Abs. 3g regelt einen Zuschlag von 5 Euro je voll-/teilstationärem Fall für das Befüllen der elektronischen Patientenakte (ePA) sowie (befristet für 2021) einen weiteren Zuschlag für Unterstützungsleistungen bei der Erstbefüllung.
-**Neue Regelung:** Absatz 3g wird ersatzlos gestrichen.
-**Auswirkung:** Der ePA-Befüllungszuschlag entfällt vollständig; Krankenhäuser verlieren diese zusätzliche Vergütungsposition. Da § 5 Abs. 6 BPflV auf § 5 Abs. 3g KHEntgG verweist (siehe Artikel 5 Nr. 3), entfällt der entsprechende Zuschlag auch für Psychiatrie/Psychosomatik.
+!!! info "Bisherige Rechtslage"
+    § 5 Abs. 3g regelt einen Zuschlag von 5 Euro je voll-/teilstationärem Fall für das Befüllen der elektronischen Patientenakte (ePA) sowie (befristet für 2021) einen weiteren Zuschlag für Unterstützungsleistungen bei der Erstbefüllung.
+
+!!! success "Neue Regelung"
+    Absatz 3g wird ersatzlos gestrichen.
+
+!!! warning "Auswirkung"
+    Der ePA-Befüllungszuschlag entfällt vollständig; Krankenhäuser verlieren diese zusätzliche Vergütungsposition. Da § 5 Abs. 6 BPflV auf § 5 Abs. 3g KHEntgG verweist (siehe Artikel 5 Nr. 3), entfällt der entsprechende Zuschlag auch für Psychiatrie/Psychosomatik.
+
 
 ### Artikel 3 Nr. 2 – § 6 KHEntgG
-**Bisherige Rechtslage:** Abs. 2 Satz 9 verlangt zusätzlich zu Kalkulationsunterlagen einen Verweis auf § 137c SGB V (Bewertungsverfahren neuer Methoden). Abs. 3 Satz 4 verweist für die Vereinbarung krankenhausindividueller Entgelte auf den "Veränderungswert nach § 9 Absatz 1b Satz 1"; Satz 5 verweist auf § 10 Absatz 5 Satz 6.
-**Neue Regelung:** Der Verweis auf § 137c SGB V in Abs. 2 Satz 9 entfällt. In Abs. 3 Satz 4 wird der Verweis präzisiert auf den "für das jeweilige Kalenderjahr nach § 9 Absatz 1b Satz 1 bis 3 vereinbarten oder festgelegten oder nach § 9 Absatz 2 Satz 1 festgesetzten Veränderungswert"; die Binnenverweisung in Satz 5 wird von "§ 10 Absatz 5 Satz 6" auf "§ 10 Absatz 5 Satz 5" angepasst.
-**Auswirkung:** Überwiegend redaktionelle Folgeänderungen aus der Neufassung von § 9 Abs. 1b und § 10 Abs. 5 (siehe unten); keine eigenständige finanzielle Wirkung.
+!!! info "Bisherige Rechtslage"
+    Abs. 2 Satz 9 verlangt zusätzlich zu Kalkulationsunterlagen einen Verweis auf § 137c SGB V (Bewertungsverfahren neuer Methoden). Abs. 3 Satz 4 verweist für die Vereinbarung krankenhausindividueller Entgelte auf den "Veränderungswert nach § 9 Absatz 1b Satz 1"; Satz 5 verweist auf § 10 Absatz 5 Satz 6.
+
+!!! success "Neue Regelung"
+    Der Verweis auf § 137c SGB V in Abs. 2 Satz 9 entfällt. In Abs. 3 Satz 4 wird der Verweis präzisiert auf den "für das jeweilige Kalenderjahr nach § 9 Absatz 1b Satz 1 bis 3 vereinbarten oder festgelegten oder nach § 9 Absatz 2 Satz 1 festgesetzten Veränderungswert"; die Binnenverweisung in Satz 5 wird von "§ 10 Absatz 5 Satz 6" auf "§ 10 Absatz 5 Satz 5" angepasst.
+
+!!! warning "Auswirkung"
+    Überwiegend redaktionelle Folgeänderungen aus der Neufassung von § 9 Abs. 1b und § 10 Abs. 5 (siehe unten); keine eigenständige finanzielle Wirkung.
+
 
 ### Artikel 3 Nr. 3 – § 6a KHEntgG (Pflegebudget) – zentrale Norm des Tarifstreits
-**Bisherige Rechtslage:** § 6a Abs. 2 regelt die Ermittlung des Pflegebudgets auf Basis der tatsächlichen/vereinbarten Pflegepersonalkosten des Vorjahres, mit vollem Ausgleich von Mehr- und Minderkosten und diversen befristeten Übergangsregeln (u. a. Satz 12 zur zeitlichen Befristung bestimmter Sätze). Abs. 4 Satz 5/6 regelt die unterjährige Erhöhung des krankenhausindividuellen Pflegeentgeltwerts bei Vereinbarung einer Tarif-Erhöhungsrate: Der Pflegeentgeltwert wird bislang um die volle ("prozentuale") Tariferhöhung angehoben.
-**Neue Regelung:**
-- Abs. 2 Satz 12 wird neu gefasst: Die bisherigen (vollen) Ausgleichsregelungen der Sätze 1–5, 9 und 10 gelten letztmalig für das Pflegebudget 2026.
+!!! info "Bisherige Rechtslage"
+    § 6a Abs. 2 regelt die Ermittlung des Pflegebudgets auf Basis der tatsächlichen/vereinbarten Pflegepersonalkosten des Vorjahres, mit vollem Ausgleich von Mehr- und Minderkosten und diversen befristeten Übergangsregeln (u. a. Satz 12 zur zeitlichen Befristung bestimmter Sätze). Abs. 4 Satz 5/6 regelt die unterjährige Erhöhung des krankenhausindividuellen Pflegeentgeltwerts bei Vereinbarung einer Tarif-Erhöhungsrate: Der Pflegeentgeltwert wird bislang um die volle ("prozentuale") Tariferhöhung angehoben.
+
+!!! success "Neue Regelung"
+    - Abs. 2 Satz 12 wird neu gefasst: Die bisherigen (vollen) Ausgleichsregelungen der Sätze 1–5, 9 und 10 gelten letztmalig für das Pflegebudget 2026.
+
 - Neuer Abs. 2a regelt ab 2027 eine mehrstufige Kürzung der Ausgangsgrundlage: Für 2027 wird das Pflegebudget 2026 um 86 % der zuvor gewährten Entlastungsmaßnahmen-Zuschläge gekürzt, für 2028 um die Hälfte, für 2029 vollständig – die zuvor dauerhaft gewährten Zuschläge werden also über drei Jahre vollständig zurückgeführt. Zugleich wird eine im Vorjahr vereinbarte Tarif-Erhöhungsrate nur noch zur Hälfte in das Folgejahresbudget eingerechnet. Ab 2027 gilt zudem eine asymmetrische Abweichungsregel: Mehrkosten gegenüber dem vereinbarten Budget werden nicht mehr, Minderkosten hingegen weiterhin nachträglich verrechnet. Neu ausgeschlossen werden zudem Pflegepersonalkosten für nicht-pflegerische Tätigkeiten (hauswirtschaftlich, logistisch, administrativ, technisch), selbst wenn dienstlich der Pflege zugeordnet.
 - Abs. 4 Satz 5/6: Die unterjährige Erhöhung des Pflegeentgeltwerts wird von 100 % auf **50 %** der vereinbarten Tarif-Erhöhungsrate abgesenkt.
-**Auswirkung:** Dies ist der finanziell einschneidendste Einzelpunkt des gesamten Artikels. Tarifsteigerungen für Pflegepersonal werden ab 2027 nur noch zur Hälfte automatisch refinanziert; bereits gewährte Zuschläge für Personalentlastungsmaßnahmen werden bis 2029 vollständig gestrichen; Kostenüberschreitungen gehen ab 2027 einseitig zulasten der Krankenhäuser, während Einsparungen weiterhin abgeschöpft werden. In der Praxis bedeutet das strukturell sinkende Realerlöse im Pflegebereich trotz weiterhin steigender Tarifgehälter.
+!!! warning "Auswirkung"
+    Dies ist der finanziell einschneidendste Einzelpunkt des gesamten Artikels. Tarifsteigerungen für Pflegepersonal werden ab 2027 nur noch zur Hälfte automatisch refinanziert; bereits gewährte Zuschläge für Personalentlastungsmaßnahmen werden bis 2029 vollständig gestrichen; Kostenüberschreitungen gehen ab 2027 einseitig zulasten der Krankenhäuser, während Einsparungen weiterhin abgeschöpft werden. In der Praxis bedeutet das strukturell sinkende Realerlöse im Pflegebereich trotz weiterhin steigender Tarifgehälter.
+
 
 **Korrektur/Ergänzung:** Eine Prüfung anhand des wörtlichen, aktuell geltenden Wortlauts von § 6a Abs. 2 KHEntgG (verifiziert über gesetze-im-internet.de, Stand vor diesem Gesetz) zeigt, dass die Satzverschiebung durch die Neufassung von Satz 12 zwei Punkte verdeckt, die oben nicht erfasst waren:
 
@@ -35,75 +52,153 @@ Artikel 3 bis 5 ändern die drei zentralen Regelwerke der Krankenhausvergütung:
    Beide Streichungen sind nach dem gleichen Muster verdeckt wie der bereits an anderer Stelle dokumentierte Fall bei § 87 SGB V: Eine unauffällige Formulierung ("Satz X wird durch den folgenden Satz ersetzt", verbunden mit einem pauschalen Befristungsverweis auf "Sätze 1 bis 5, 9 und 10") lässt nicht erkennen, dass darunter zwei inhaltlich eigenständige, für Krankenhäuser günstige Bestandsschutzregelungen ersatzlos wegfallen. Diese Aspekte sollten in der Gesamteinordnung des Tarifstreits (siehe unten) als zusätzliche, eigenständige Verschärfung neben der Halbierung der Tarifrefinanzierung berücksichtigt werden.
 
 ### Artikel 3 Nr. 4 – § 6c KHEntgG (sektorenübergreifende Versorgungseinrichtungen)
-**Bisherige Rechtslage:** Pflegepersonalkosten sektorenübergreifender Einrichtungen werden bei der Ermittlung des Gesamtvolumens "vollständig" berücksichtigt; das Gesamtvolumen darf den um den Veränderungswert erhöhten Vorjahreswert nur bei bestimmten Tatbeständen überschreiten.
-**Neue Regelung:** Die vollständige Berücksichtigung gilt nur noch bei der **erstmaligen** Vereinbarung; bei Folgevereinbarungen werden Pflegepersonalkosten nur noch bis zur Höhe des um den Veränderungswert fortgeschriebenen Vorjahreswerts anerkannt (Ausnahme: gesetzlich bedingte Personalvorgaben). Der Verweis auf "Mehr- oder" Minderkosten im Ausgleichsmechanismus wird gestrichen (nur noch Minderkosten-Ausgleich). Die Deckelungsformel für das Gesamtvolumen wird redaktionell an die neue Veränderungswert-Definition angepasst.
-**Auswirkung:** Auch für diesen kleinen, noch im Aufbau befindlichen Versorgungsbereich wird die bislang vollständige Kostenerstattung für Pflegepersonal auf eine Deckelungslogik nach dem Vorbild von § 6a umgestellt – gleiche Kürzungssystematik wie beim allgemeinen Pflegebudget.
+!!! info "Bisherige Rechtslage"
+    Pflegepersonalkosten sektorenübergreifender Einrichtungen werden bei der Ermittlung des Gesamtvolumens "vollständig" berücksichtigt; das Gesamtvolumen darf den um den Veränderungswert erhöhten Vorjahreswert nur bei bestimmten Tatbeständen überschreiten.
+
+!!! success "Neue Regelung"
+    Die vollständige Berücksichtigung gilt nur noch bei der **erstmaligen** Vereinbarung; bei Folgevereinbarungen werden Pflegepersonalkosten nur noch bis zur Höhe des um den Veränderungswert fortgeschriebenen Vorjahreswerts anerkannt (Ausnahme: gesetzlich bedingte Personalvorgaben). Der Verweis auf "Mehr- oder" Minderkosten im Ausgleichsmechanismus wird gestrichen (nur noch Minderkosten-Ausgleich). Die Deckelungsformel für das Gesamtvolumen wird redaktionell an die neue Veränderungswert-Definition angepasst.
+
+!!! warning "Auswirkung"
+    Auch für diesen kleinen, noch im Aufbau befindlichen Versorgungsbereich wird die bislang vollständige Kostenerstattung für Pflegepersonal auf eine Deckelungslogik nach dem Vorbild von § 6a umgestellt – gleiche Kürzungssystematik wie beim allgemeinen Pflegebudget.
+
 
 **Korrektur/Ergänzung:** Der Abgleich mit dem aktuell geltenden Wortlaut von § 6c Abs. 3 Satz 4 KHEntgG zeigt, dass die Änderung der Deckelungsformel für das Gesamtvolumen (Artikel 3 Nr. 4 Buchstabe b) nicht nur "redaktionell" ist, wie oben dargestellt. Bislang durfte das Gesamtvolumen den veränderungswertindexierten Vorjahreswert aus **zwei** Gründen überschreiten: (1) durch eine Steigerung der Pflegepersonalkosten oder (2) durch Veränderungen von Art und Menge der Leistungen. Die Neufassung streicht Grund (1) ersatzlos; künftig rechtfertigt nur noch Grund (2) eine Überschreitung. Das ist eine inhaltliche Verschärfung (konsequente Folge der in Buchstabe a) eingeführten Deckelung der Pflegepersonalkosten selbst), keine bloße Anpassung der Veränderungswert-Terminologie.
 
 ### Artikel 3 Nr. 5 – § 8 Absatz 5/5a KHEntgG (Fallzusammenführung, Kurzzeitfallpauschalen)
-**Bisherige Rechtslage:** Eine Fallzusammenführung (Zusammenfassung zweier Aufenthalte zu einem Abrechnungsfall) ist nur bei Wiederaufnahme wegen einer Komplikation innerhalb der oberen Grenzverweildauer vorgeschrieben.
-**Neue Regelung:** Ab 1.1.2028 wird ein zweiter, deutlich weiterer Fallzusammenführungstatbestand eingeführt: Erfolgt eine erneute Aufnahme innerhalb von 30 Kalendertagen und fällt sie in dieselbe Hauptdiagnosegruppe wie der vorangegangene Aufenthalt, sind beide Fälle zusammenzuführen. Neuer Abs. 5a schließt zudem die Abrechnung von Kurzzeitfallpauschalen (vgl. Artikel 4 Nr. 2) aus, wenn die Leistung im Katalog ambulanter Operationen (§ 115b SGB V) enthalten ist.
-**Auswirkung:** Deutliche Verschärfung der Abrechnungsprüfung gegen sogenanntes "Drehtür"-Verhalten bzw. Fallsplitting; Krankenhäuser erhalten in mehr Fällen nur noch eine statt zwei Fallpauschalen – finanziell belastend, dient aber der Kosteneindämmung der GKV.
+!!! info "Bisherige Rechtslage"
+    Eine Fallzusammenführung (Zusammenfassung zweier Aufenthalte zu einem Abrechnungsfall) ist nur bei Wiederaufnahme wegen einer Komplikation innerhalb der oberen Grenzverweildauer vorgeschrieben.
+
+!!! success "Neue Regelung"
+    Ab 1.1.2028 wird ein zweiter, deutlich weiterer Fallzusammenführungstatbestand eingeführt: Erfolgt eine erneute Aufnahme innerhalb von 30 Kalendertagen und fällt sie in dieselbe Hauptdiagnosegruppe wie der vorangegangene Aufenthalt, sind beide Fälle zusammenzuführen. Neuer Abs. 5a schließt zudem die Abrechnung von Kurzzeitfallpauschalen (vgl. Artikel 4 Nr. 2) aus, wenn die Leistung im Katalog ambulanter Operationen (§ 115b SGB V) enthalten ist.
+
+!!! warning "Auswirkung"
+    Deutliche Verschärfung der Abrechnungsprüfung gegen sogenanntes "Drehtür"-Verhalten bzw. Fallsplitting; Krankenhäuser erhalten in mehr Fällen nur noch eine statt zwei Fallpauschalen – finanziell belastend, dient aber der Kosteneindämmung der GKV.
+
 
 ### Artikel 3 Nr. 6 – § 9 KHEntgG (Vereinbarungsgegenstände auf Bundesebene)
-**Bisherige Rechtslage:** Abs. 1 Nr. 3 regelt Abrechnungsbestimmungen und Ausnahmen von der Fallzusammenführung; Nr. 7 die Erhöhungsrate für Tariferhöhungen; Nr. 10 Vereinbarungen zu § 115g SGB V; Abs. 1b regelt den jährlichen Veränderungswert.
-**Neue Regelung:** Nr. 3 wird an die neue, erweiterte Fallzusammenführung angepasst (Ausnahmen befristet bis 31.3.2027). Nr. 7 verweist neu auf § 10 Abs. 5 Satz 4 (die neue 50-%-Regelung). Neue Nr. 11 verpflichtet die Vertragsparteien, bis 30.9.2027 Vorgaben gegen eine mengenausweitende Nutzung der neuen Kurzzeitfallpauschalen zu entwickeln. Abs. 1b wird neu gefasst: Der Veränderungswert wird ab 2030 wieder eigenständig zwischen den Bundes-Vertragsparteien verhandelt (2026 pauschal = Orientierungswert 2025, 2027–2029 = Veränderungsrate nach § 71 Abs. 3 SGB V bzw. der jeweils niedrigere Wert aus Orientierungswert/Veränderungsrate).
-**Auswirkung:** Neben der Tarif-Kürzungslogik (s. o.) wird über Abs. 1b für 2027–2029 sichergestellt, dass der allgemeine Preissteigerungs-Veränderungswert stets dem niedrigeren der beiden Werte (GKV-Veränderungsrate vs. amtlicher Orientierungswert) entspricht – eine zusätzliche, strukturelle Kostendämpfung, da Krankenhäuser bei divergierenden Werten regelmäßig den ungünstigeren erhalten.
+!!! info "Bisherige Rechtslage"
+    Abs. 1 Nr. 3 regelt Abrechnungsbestimmungen und Ausnahmen von der Fallzusammenführung; Nr. 7 die Erhöhungsrate für Tariferhöhungen; Nr. 10 Vereinbarungen zu § 115g SGB V; Abs. 1b regelt den jährlichen Veränderungswert.
+
+!!! success "Neue Regelung"
+    Nr. 3 wird an die neue, erweiterte Fallzusammenführung angepasst (Ausnahmen befristet bis 31.3.2027). Nr. 7 verweist neu auf § 10 Abs. 5 Satz 4 (die neue 50-%-Regelung). Neue Nr. 11 verpflichtet die Vertragsparteien, bis 30.9.2027 Vorgaben gegen eine mengenausweitende Nutzung der neuen Kurzzeitfallpauschalen zu entwickeln. Abs. 1b wird neu gefasst: Der Veränderungswert wird ab 2030 wieder eigenständig zwischen den Bundes-Vertragsparteien verhandelt (2026 pauschal = Orientierungswert 2025, 2027–2029 = Veränderungsrate nach § 71 Abs. 3 SGB V bzw. der jeweils niedrigere Wert aus Orientierungswert/Veränderungsrate).
+
+!!! warning "Auswirkung"
+    Neben der Tarif-Kürzungslogik (s. o.) wird über Abs. 1b für 2027–2029 sichergestellt, dass der allgemeine Preissteigerungs-Veränderungswert stets dem niedrigeren der beiden Werte (GKV-Veränderungsrate vs. amtlicher Orientierungswert) entspricht – eine zusätzliche, strukturelle Kostendämpfung, da Krankenhäuser bei divergierenden Werten regelmäßig den ungünstigeren erhalten.
+
 
 **Korrektur/Ergänzung:** Der Vergleich mit dem bisherigen § 9 Abs. 1b KHEntgG (i. V. m. dem bisherigen § 10 Abs. 6 Sätze 6/7, die durch Artikel 3 Nr. 7 Buchstabe e) gestrichen und inhaltlich hierher verschoben werden) zeigt, dass es sich nicht nur um eine "zusätzliche" Kostendämpfung handelt, sondern um eine **Umkehrung der bisherigen Logik**: Bisher entsprach der Veränderungswert im Unterschreitungsfall (Orientierungswert < Veränderungsrate) der – höheren – Veränderungsrate, und im Überschreitungsfall (Orientierungswert > Veränderungsrate) wurde er ausgehend vom – höheren – Orientierungswert vereinbart; im Ergebnis erhielten Krankenhäuser in beiden Fällen tendenziell den **günstigeren** (höheren) der beiden Werte. Die Neufassung kehrt dies für 2027–2029 um: In beiden Fällen gilt jetzt ausdrücklich der **niedrigere** Wert. Das ist keine graduelle Verschärfung, sondern eine Umkehrung der Vorzugsrichtung, die zusätzlich zur Halbierung der Tarifrefinanzierung wirkt, da ein niedrigerer Veränderungswert die "Basis" verkleinert, über die Tarifsteigerungen hinausgehen müssen.
 
 ### Artikel 3 Nr. 7 – § 10 KHEntgG (Landesbasisfallwert) – zentrale Norm des Tarifstreits
-**Bisherige Rechtslage:** Nach Abs. 5 werden Tariferhöhungen für Löhne und Gehälter oberhalb des Veränderungswerts **zu 100 Prozent** im Landesbasisfallwert nachfinanziert, getrennt für Pflegedienst, übrigen nichtärztlichen Bereich und ärztlichen Bereich. Abs. 3 Satz 1 Nr. 1 verweist auf § 9 Abs. 1b Satz 2; Abs. 4 begrenzt die Basisfallwert-Entwicklung durch den Veränderungswert; Abs. 6 regelt Ermittlung und Erhebungsmethodik des Orientierungswerts durch das Statistische Bundesamt.
-**Neue Regelung:** Abs. 5 wird neu gefasst: Für jeden der drei Personalbereiche (Pflege, übriger nichtärztlicher Bereich, ärztlicher Bereich) werden künftig nur noch **50 Prozent** des Unterschieds zwischen Veränderungswert und Tarifrate refinanziert. Die übrigen Absätze (3, 4, 6) werden redaktionell an die neue Systematik von § 9 Abs. 1b/2 angepasst; in Abs. 6 wird die Datenerhebungsmethodik des Statistischen Bundesamts neu geregelt (jährliche Verordnungsermächtigung des BMG ohne Bundesratszustimmung) und bisherige Sätze 6/7 gestrichen.
-**Auswirkung:** Dies ist – neben § 6a – die zentrale, politisch umstrittene Regelung: Die bislang vollständige automatische Tarifrefinanzierung im DRG-Bereich (Basisfallwert) wird auf 50 Prozent halbiert. Für Krankenhäuser bedeutet das bei jeder künftigen Tarifrunde eine strukturelle Finanzierungslücke in Höhe der Hälfte der über dem Veränderungswert liegenden Personalkostensteigerung, die sie aus Eigenmitteln bzw. durch Effizienzsteigerungen auffangen müssen.
+!!! info "Bisherige Rechtslage"
+    Nach Abs. 5 werden Tariferhöhungen für Löhne und Gehälter oberhalb des Veränderungswerts **zu 100 Prozent** im Landesbasisfallwert nachfinanziert, getrennt für Pflegedienst, übrigen nichtärztlichen Bereich und ärztlichen Bereich. Abs. 3 Satz 1 Nr. 1 verweist auf § 9 Abs. 1b Satz 2; Abs. 4 begrenzt die Basisfallwert-Entwicklung durch den Veränderungswert; Abs. 6 regelt Ermittlung und Erhebungsmethodik des Orientierungswerts durch das Statistische Bundesamt.
+
+!!! success "Neue Regelung"
+    Abs. 5 wird neu gefasst: Für jeden der drei Personalbereiche (Pflege, übriger nichtärztlicher Bereich, ärztlicher Bereich) werden künftig nur noch **50 Prozent** des Unterschieds zwischen Veränderungswert und Tarifrate refinanziert. Die übrigen Absätze (3, 4, 6) werden redaktionell an die neue Systematik von § 9 Abs. 1b/2 angepasst; in Abs. 6 wird die Datenerhebungsmethodik des Statistischen Bundesamts neu geregelt (jährliche Verordnungsermächtigung des BMG ohne Bundesratszustimmung) und bisherige Sätze 6/7 gestrichen.
+
+!!! warning "Auswirkung"
+    Dies ist – neben § 6a – die zentrale, politisch umstrittene Regelung: Die bislang vollständige automatische Tarifrefinanzierung im DRG-Bereich (Basisfallwert) wird auf 50 Prozent halbiert. Für Krankenhäuser bedeutet das bei jeder künftigen Tarifrunde eine strukturelle Finanzierungslücke in Höhe der Hälfte der über dem Veränderungswert liegenden Personalkostensteigerung, die sie aus Eigenmitteln bzw. durch Effizienzsteigerungen auffangen müssen.
+
 
 ### Artikel 3 Nr. 8 – § 21 Absatz 5 Satz 1 KHEntgG
-**Bisherige Rechtslage:** Verweist auf "§ 17b Abs. 2 Satz 1" ohne Gesetzesbezeichnung.
-**Neue Regelung:** Redaktionelle Klarstellung: "§ 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes".
-**Auswirkung:** Rein redaktionell, keine inhaltliche Änderung.
+!!! info "Bisherige Rechtslage"
+    Verweist auf "§ 17b Abs. 2 Satz 1" ohne Gesetzesbezeichnung.
+
+!!! success "Neue Regelung"
+    Redaktionelle Klarstellung: "§ 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes".
+
+!!! warning "Auswirkung"
+    Rein redaktionell, keine inhaltliche Änderung.
+
 
 ### Artikel 4 Nr. 1 – § 17a Absatz 3 Satz 4 KHG (Ausbildungsbudget)
-**Bisherige Rechtslage:** Das Ausbildungsbudget ist nicht durch den Veränderungswert nach § 9 Abs. 1b Satz 1 KHEntgG begrenzt.
-**Neue Regelung:** Redaktionelle Anpassung des Verweises an die neue Fassung von § 9 Abs. 1b/Abs. 2 KHEntgG (Veränderungswert kann künftig auch "festgelegt" oder "festgesetzt" statt nur "vereinbart" sein).
-**Auswirkung:** Rein redaktionelle Folgeänderung; das Ausbildungsbudget bleibt weiterhin von der Veränderungswert-Deckelung ausgenommen.
+!!! info "Bisherige Rechtslage"
+    Das Ausbildungsbudget ist nicht durch den Veränderungswert nach § 9 Abs. 1b Satz 1 KHEntgG begrenzt.
+
+!!! success "Neue Regelung"
+    Redaktionelle Anpassung des Verweises an die neue Fassung von § 9 Abs. 1b/Abs. 2 KHEntgG (Veränderungswert kann künftig auch "festgelegt" oder "festgesetzt" statt nur "vereinbart" sein).
+
+!!! warning "Auswirkung"
+    Rein redaktionelle Folgeänderung; das Ausbildungsbudget bleibt weiterhin von der Veränderungswert-Deckelung ausgenommen.
+
 
 ### Artikel 4 Nr. 2 – § 17b KHG (DRG-Vergütungssystem, Kurzzeitfallpauschalen)
-**Bisherige Rechtslage:** § 17b enthält keinen Absatz 2a; das Institut für das Entgeltsystem im Krankenhaus (InEK) kalkuliert Bewertungsrelationen ohne gesonderte Kategorie für sehr kurze Aufenthalte.
-**Neue Regelung:** Neuer Abs. 2a führt "Kurzzeitfallpauschalen" für stationäre Fälle mit maximal drei Kalendertagen/zwei Übernachtungen ein. Das InEK erarbeitet bis 31.3.2027 ein Kalkulationskonzept, die Vertragsparteien vereinbaren bis 30.4.2027 die Umsetzung; erstmalige Anwendung im Entgeltkatalog 2028. Eine untere Grenzverweildauer entfällt für diese Pauschalen; bei Überschreitung der Höchstdauer erfolgt keine Kurzzeitfallpauschale. Vorgesehen sind Mechanismen gegen Fallzahlausweitung, eine Prüfung auf Verlagerung ins Ambulante (§ 115b SGB V) sowie Berichtspflichten. Ergänzend werden Abs. 3 Satz 4 (Kalkulationskonzept), Abs. 7 (Schiedsstellenfrist bis 21.5.2027 bei Nichteinigung) und Abs. 4c Satz 2 (Prüfauftrag zu Vorhaltevergütung) angepasst.
-**Auswirkung:** Strukturreform zur Ambulantisierung: Kurze, medizinisch oft auch ambulant erbringbare stationäre Fälle sollen künftig niedriger vergütet werden als reguläre Fallpauschalen, um Fehlanreize zu stationären Kurzaufenthalten abzubauen. Finanziell tendenziell nachteilig für Krankenhäuser mit hohem Anteil kurzer Aufenthalte.
+!!! info "Bisherige Rechtslage"
+    § 17b enthält keinen Absatz 2a; das Institut für das Entgeltsystem im Krankenhaus (InEK) kalkuliert Bewertungsrelationen ohne gesonderte Kategorie für sehr kurze Aufenthalte.
+
+!!! success "Neue Regelung"
+    Neuer Abs. 2a führt "Kurzzeitfallpauschalen" für stationäre Fälle mit maximal drei Kalendertagen/zwei Übernachtungen ein. Das InEK erarbeitet bis 31.3.2027 ein Kalkulationskonzept, die Vertragsparteien vereinbaren bis 30.4.2027 die Umsetzung; erstmalige Anwendung im Entgeltkatalog 2028. Eine untere Grenzverweildauer entfällt für diese Pauschalen; bei Überschreitung der Höchstdauer erfolgt keine Kurzzeitfallpauschale. Vorgesehen sind Mechanismen gegen Fallzahlausweitung, eine Prüfung auf Verlagerung ins Ambulante (§ 115b SGB V) sowie Berichtspflichten. Ergänzend werden Abs. 3 Satz 4 (Kalkulationskonzept), Abs. 7 (Schiedsstellenfrist bis 21.5.2027 bei Nichteinigung) und Abs. 4c Satz 2 (Prüfauftrag zu Vorhaltevergütung) angepasst.
+
+!!! warning "Auswirkung"
+    Strukturreform zur Ambulantisierung: Kurze, medizinisch oft auch ambulant erbringbare stationäre Fälle sollen künftig niedriger vergütet werden als reguläre Fallpauschalen, um Fehlanreize zu stationären Kurzaufenthalten abzubauen. Finanziell tendenziell nachteilig für Krankenhäuser mit hohem Anteil kurzer Aufenthalte.
+
 
 ### Artikel 4 Nr. 3 – § 17c KHG (MD-Abrechnungsprüfung)
-**Bisherige Rechtslage:** Der Medizinische Dienst (MD) prüft im Rahmen einer Einzelfallprüfung den jeweiligen Prüfanlass; eine Pflicht, dabei zufällig entdeckte weitere Abrechnungsauffälligkeiten einzubeziehen, besteht nicht ausdrücklich. Der MD Bund ist bei bestimmten Regelungsanpassungen zu "beteiligen".
-**Neue Regelung:** Der MD muss künftig auch nicht anlassbezogene, im Rahmen der Prüfung festgestellte abrechnungsrelevante Auffälligkeiten in seine Prüfung einbeziehen. Die Beteiligung des MD Bund wird zu einem bloßen Stellungnahmerecht (mit Berücksichtigungspflicht) abgeschwächt/präzisiert. Neu: Prüfauftrag bis 30.6.2027, wie ein bestimmtes Verfahren (Nr. 3) intensiver genutzt werden kann.
-**Auswirkung:** Erweiterung der MD-Prüfbefugnisse zulasten der Krankenhäuser – "Zufallsfunde" während einer Prüfung können künftig ebenfalls zu Rechnungskürzungen führen, was das wirtschaftliche Risiko von Abrechnungsprüfungen für Kliniken erhöht. Diese Ausweitung der Prüfungen wird von den Ländern in BR-Drs. 256/4/26 (Buchstabe g) explizit als zusätzliche bürokratische und wirtschaftliche Belastung kritisiert.
+!!! info "Bisherige Rechtslage"
+    Der Medizinische Dienst (MD) prüft im Rahmen einer Einzelfallprüfung den jeweiligen Prüfanlass; eine Pflicht, dabei zufällig entdeckte weitere Abrechnungsauffälligkeiten einzubeziehen, besteht nicht ausdrücklich. Der MD Bund ist bei bestimmten Regelungsanpassungen zu "beteiligen".
+
+!!! success "Neue Regelung"
+    Der MD muss künftig auch nicht anlassbezogene, im Rahmen der Prüfung festgestellte abrechnungsrelevante Auffälligkeiten in seine Prüfung einbeziehen. Die Beteiligung des MD Bund wird zu einem bloßen Stellungnahmerecht (mit Berücksichtigungspflicht) abgeschwächt/präzisiert. Neu: Prüfauftrag bis 30.6.2027, wie ein bestimmtes Verfahren (Nr. 3) intensiver genutzt werden kann.
+
+!!! warning "Auswirkung"
+    Erweiterung der MD-Prüfbefugnisse zulasten der Krankenhäuser – "Zufallsfunde" während einer Prüfung können künftig ebenfalls zu Rechnungskürzungen führen, was das wirtschaftliche Risiko von Abrechnungsprüfungen für Kliniken erhöht. Diese Ausweitung der Prüfungen wird von den Ländern in BR-Drs. 256/4/26 (Buchstabe g) explizit als zusätzliche bürokratische und wirtschaftliche Belastung kritisiert.
+
 
 ### Artikel 5 Nr. 1 – § 3 BPflV (Psychiatrie/Psychosomatik: Gesamtbetrag, Tarifrefinanzierung) – zentrale Norm des Tarifstreits
-**Bisherige Rechtslage:** Abs. 3 begrenzt den jährlichen Gesamtbetrag auf den um den Veränderungswert erhöhten Vorjahresbetrag, mit Ausnahmetatbeständen (u. a. Stellenbesetzung). Abs. 4 Satz 1 und Abs. 5 Satz 5 erhöhen den Gesamtbetrag bei Tariferhöhungen um **75 Prozent** der nach § 9 Abs. 1 Nr. 7 KHEntgG vereinbarten Erhöhungsrate.
-**Neue Regelung:** Abs. 3 wird redaktionell an die neue Veränderungswert-Terminologie angepasst und um differenziertere Voraussetzungen für Überschreitungen ergänzt (u. a. Kapazitätsausweitung durch Krankenhausplanung). Die Sätze zur Stellenbesetzungsprüfung (bisher Satz 8–10) werden verschärft neu gefasst: Ab 2026 führt eine nicht zweckentsprechende Mittelverwendung ebenfalls zu einer Absenkung des Gesamtbetrags, mit Nachweispflicht bei nur vorübergehender Unterbesetzung. In Abs. 4 Satz 1 und Abs. 5 Satz 5 wird der Anteil der Tarifrefinanzierung von **75 Prozent auf 37,5 Prozent** – also exakt halbiert – abgesenkt.
-**Auswirkung:** Analog zu § 10 Abs. 5 KHEntgG wird auch für psychiatrische und psychosomatische Einrichtungen die automatische Tarifrefinanzierung halbiert. Da diese Einrichtungen ohnehin nur 75 statt 100 Prozent erhielten, sinkt der Anteil nun auf ein Achtel bzw. rechnerisch 37,5 Prozent der ursprünglichen Tarifsteigerung – eine der stärksten Einzelkürzungen des gesamten Gesetzes für diesen Versorgungsbereich.
+!!! info "Bisherige Rechtslage"
+    Abs. 3 begrenzt den jährlichen Gesamtbetrag auf den um den Veränderungswert erhöhten Vorjahresbetrag, mit Ausnahmetatbeständen (u. a. Stellenbesetzung). Abs. 4 Satz 1 und Abs. 5 Satz 5 erhöhen den Gesamtbetrag bei Tariferhöhungen um **75 Prozent** der nach § 9 Abs. 1 Nr. 7 KHEntgG vereinbarten Erhöhungsrate.
+
+!!! success "Neue Regelung"
+    Abs. 3 wird redaktionell an die neue Veränderungswert-Terminologie angepasst und um differenziertere Voraussetzungen für Überschreitungen ergänzt (u. a. Kapazitätsausweitung durch Krankenhausplanung). Die Sätze zur Stellenbesetzungsprüfung (bisher Satz 8–10) werden verschärft neu gefasst: Ab 2026 führt eine nicht zweckentsprechende Mittelverwendung ebenfalls zu einer Absenkung des Gesamtbetrags, mit Nachweispflicht bei nur vorübergehender Unterbesetzung. In Abs. 4 Satz 1 und Abs. 5 Satz 5 wird der Anteil der Tarifrefinanzierung von **75 Prozent auf 37,5 Prozent** – also exakt halbiert – abgesenkt.
+
+!!! warning "Auswirkung"
+    Analog zu § 10 Abs. 5 KHEntgG wird auch für psychiatrische und psychosomatische Einrichtungen die automatische Tarifrefinanzierung halbiert. Da diese Einrichtungen ohnehin nur 75 statt 100 Prozent erhielten, sinkt der Anteil nun auf ein Achtel bzw. rechnerisch 37,5 Prozent der ursprünglichen Tarifsteigerung – eine der stärksten Einzelkürzungen des gesamten Gesetzes für diesen Versorgungsbereich.
+
 
 **Korrektur/Ergänzung:** Der Abgleich mit dem wörtlichen, aktuell geltenden Text von § 3 Abs. 3 Satz 5 BPflV zeigt, dass die oben unter "Neue Regelung" genannten "differenzierteren Voraussetzungen für Überschreitungen" (u. a. Kapazitätsausweitung durch Krankenhausplanung/Investitionsprogramm, Veränderungen der Leistungsstruktur/Fallzahlen) **inhaltlich bereits im geltenden Recht nahezu wortgleich enthalten sind** und durch diese Änderung nicht neu eingeführt, sondern nur unverändert fortgeschrieben werden. Die einzige tatsächliche Änderung an Satz 5 ist die redaktionelle Anpassung der Veränderungswert-Verweisung: statt auf den bisherigen eigenen § 9 Abs. 1 Nr. 5 BPflV (der durch Artikel 5 Nr. 4 Buchstabe a) gestrichen wird) verweist die Norm künftig auf § 9 Abs. 1b KHEntgG. Die Formulierung "um … differenziertere Voraussetzungen … ergänzt" ist daher zu präzisieren: Es handelt sich, anders als es der Wortlaut suggeriert, tatsächlich um eine rein redaktionelle Anpassung ohne inhaltliche Verschärfung an dieser Stelle (die eigentliche Verschärfung liegt allein in Absatz 4/5, s.o.). Die Prüfung der Sätze 8 bis 10 (Stellenbesetzungsnachweis) ergab hingegen keine Abweichungen von der obigen Darstellung.
 
 ### Artikel 5 Nr. 2 – § 4 Absatz 1 BPflV (leistungsbezogener Vergleich)
-**Bisherige Rechtslage:** Satz 2 Nr. 1 bezieht sich auf "die der letzten Budgetvereinbarung zugrunde gelegten Leistungen"; Satz 3 Nr. 2/3 nennt regionale/strukturelle Besonderheiten und den Umfang der personellen Ausstattung als zu berücksichtigende Vergleichskriterien.
-**Neue Regelung:** Nr. 1 wird um "und Kosten" ergänzt. Neue Nr. 4 in Satz 3 nimmt zusätzlich "den Umfang der therapeutischen und der weiteren Personalkosten sowie der Sachkosten" als Vergleichskriterium auf.
-**Auswirkung:** Erweiterung der beim Budgetvergleich zu berücksichtigenden Kostenkategorien; dient der genaueren/schärferen wirtschaftlichen Vergleichbarkeit der Einrichtungen, keine unmittelbare Vergütungsänderung.
+!!! info "Bisherige Rechtslage"
+    Satz 2 Nr. 1 bezieht sich auf "die der letzten Budgetvereinbarung zugrunde gelegten Leistungen"; Satz 3 Nr. 2/3 nennt regionale/strukturelle Besonderheiten und den Umfang der personellen Ausstattung als zu berücksichtigende Vergleichskriterien.
+
+!!! success "Neue Regelung"
+    Nr. 1 wird um "und Kosten" ergänzt. Neue Nr. 4 in Satz 3 nimmt zusätzlich "den Umfang der therapeutischen und der weiteren Personalkosten sowie der Sachkosten" als Vergleichskriterium auf.
+
+!!! warning "Auswirkung"
+    Erweiterung der beim Budgetvergleich zu berücksichtigenden Kostenkategorien; dient der genaueren/schärferen wirtschaftlichen Vergleichbarkeit der Einrichtungen, keine unmittelbare Vergütungsänderung.
+
 
 ### Artikel 5 Nr. 3 – § 5 Absatz 6 BPflV
-**Bisherige Rechtslage:** Verweist für den ePA-Zuschlag entsprechend auf § 5 Abs. 3g KHEntgG.
-**Neue Regelung:** Absatz 6 wird gestrichen (Folgeänderung zur Streichung von § 5 Abs. 3g KHEntgG, Artikel 3 Nr. 1).
-**Auswirkung:** Der ePA-Befüllungszuschlag entfällt auch für Psychiatrie/Psychosomatik.
+!!! info "Bisherige Rechtslage"
+    Verweist für den ePA-Zuschlag entsprechend auf § 5 Abs. 3g KHEntgG.
+
+!!! success "Neue Regelung"
+    Absatz 6 wird gestrichen (Folgeänderung zur Streichung von § 5 Abs. 3g KHEntgG, Artikel 3 Nr. 1).
+
+!!! warning "Auswirkung"
+    Der ePA-Befüllungszuschlag entfällt auch für Psychiatrie/Psychosomatik.
+
 
 ### Artikel 5 Nr. 4 – § 9 BPflV (Veränderungswert-Verfahren)
-**Bisherige Rechtslage:** Abs. 1 Nr. 5 regelt gesondert die jährliche Vereinbarung des Veränderungswerts nach § 10 Abs. 6 Satz 6/7 KHEntgG; Abs. 2 Satz 2 verweist auf die Schiedsstelle in "übrigen Fällen".
-**Neue Regelung:** Nr. 5 wird gestrichen (da der Veränderungswert künftig unmittelbar über § 9 Abs. 1b/Abs. 2 KHEntgG bestimmt wird, vgl. Artikel 3 Nr. 6, und die gesonderte BPflV-Regelung redundant wird). Abs. 2 Satz 2 wird redaktionell auf die Schiedsstelle nach § 18a Abs. 6 KHG umformuliert.
-**Auswirkung:** Verfahrensvereinfachung/Bereinigung, keine eigenständige finanzielle Wirkung – Folgeänderung der neuen Veränderungswert-Systematik.
+!!! info "Bisherige Rechtslage"
+    Abs. 1 Nr. 5 regelt gesondert die jährliche Vereinbarung des Veränderungswerts nach § 10 Abs. 6 Satz 6/7 KHEntgG; Abs. 2 Satz 2 verweist auf die Schiedsstelle in "übrigen Fällen".
+
+!!! success "Neue Regelung"
+    Nr. 5 wird gestrichen (da der Veränderungswert künftig unmittelbar über § 9 Abs. 1b/Abs. 2 KHEntgG bestimmt wird, vgl. Artikel 3 Nr. 6, und die gesonderte BPflV-Regelung redundant wird). Abs. 2 Satz 2 wird redaktionell auf die Schiedsstelle nach § 18a Abs. 6 KHG umformuliert.
+
+!!! warning "Auswirkung"
+    Verfahrensvereinfachung/Bereinigung, keine eigenständige finanzielle Wirkung – Folgeänderung der neuen Veränderungswert-Systematik.
+
 
 ### Artikel 5 Nr. 5 – § 15 Absatz 1 Satz 5 BPflV
-**Bisherige Rechtslage:** Satz 5 regelt für ab 2027 beginnende Vereinbarungszeiträume, dass bei Arzneimitteln mit neuem Wirkstoff und vereinbartem/festgesetztem Erstattungsbetrag für Leistungen, für die ein Entgelt nach § 6 Absatz 1 oder 4 [Regelungslücke], ein Entgelt in Höhe des Erstattungsbetrags zu erheben ist.
-**Neue Regelung:** Nach "§ 6 Absatz 1 oder 4" wird "zu vereinbaren ist" eingefügt, wodurch der bislang unvollständige Relativsatz grammatikalisch geschlossen wird.
-**Auswirkung:** Rein redaktionelle/grammatikalische Korrektur ohne inhaltliche Änderung.
+!!! info "Bisherige Rechtslage"
+    Satz 5 regelt für ab 2027 beginnende Vereinbarungszeiträume, dass bei Arzneimitteln mit neuem Wirkstoff und vereinbartem/festgesetztem Erstattungsbetrag für Leistungen, für die ein Entgelt nach § 6 Absatz 1 oder 4 [Regelungslücke], ein Entgelt in Höhe des Erstattungsbetrags zu erheben ist.
+
+!!! success "Neue Regelung"
+    Nach "§ 6 Absatz 1 oder 4" wird "zu vereinbaren ist" eingefügt, wodurch der bislang unvollständige Relativsatz grammatikalisch geschlossen wird.
+
+!!! warning "Auswirkung"
+    Rein redaktionelle/grammatikalische Korrektur ohne inhaltliche Änderung.
+
 
 ## Einordnung: Tarifrefinanzierungs-Streit
 
