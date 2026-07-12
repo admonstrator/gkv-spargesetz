@@ -16,9 +16,17 @@ Das GKV-Spargesetz ist das bisher weitreichendste Eingreifen in die Finanzierung
 
     ---
 
-    Keine Lust auf lange Texte? Hier finden Sie alle Änderungen, deren Auswirkungen und die Pro/Contra-Argumente in kompakter Form. Absolut für Laien verständlich!
+    Keine Lust auf lange Texte? Hier finden Sie alle Änderungen und die Pro/Contra-Argumente in kompakter Form.
 
     [:material-arrow-right-circle: Zur Schnellübersicht](Zusammenfassungen/kompakt.md)
+
+-   :material-map-marker-path: __Der Weg des Gesetzes (Ablauf)__
+
+    ---
+
+    Welche Schleifen hat das Gesetz im Parlament gedreht? Eine einfache grafische Übersicht des Verfahrens bis heute.
+
+    [:material-arrow-right-circle: Zum Ablaufplan](chronologie.md)
 
 -   :material-account-heart: __Für Versicherte__
 
