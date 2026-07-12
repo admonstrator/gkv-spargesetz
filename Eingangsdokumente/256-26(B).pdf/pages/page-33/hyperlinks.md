@@ -1,2 +1,0 @@
-https://www.gkv-spitzenverband.de/media/dokumente/presse/presse_themen/asylbewerber/20160527_Bundesrahmenempfehlung_Asylsuchende_264_Abs_1_SGB_V.pdf
-https://www.gkv-spitzenverband.de/media/dokumente/presse/presse_themen/asylbewerber/20160527_Bundesrahmenempfehlung_Asylsuchende_264_Abs_1_SGB_V.pdf

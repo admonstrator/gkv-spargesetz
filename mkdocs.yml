@@ -27,7 +27,7 @@ plugins:
   - search
 
 nav:
-  - Startseite: README.md
+  - Startseite: index.md
   - 📌 Zusammenfassungen:
     - Für Versicherte: Zusammenfassungen/versicherte.md
     - Für Psychotherapeuten: Zusammenfassungen/psychotherapie.md
@@ -53,5 +53,3 @@ nav:
   - 📂 Original-Dokumente:
     - Chronologie: Eingangsdokumente/README.md
   - Entwickler-Transfer: TRANSFER.md
-
-docs_dir: .

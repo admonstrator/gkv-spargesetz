@@ -1,2 +1,0 @@
-https://www.juris.de/r3/document/BJNR142200002BJNE001032126/format/xsl?oi=S5z2XpHesb&sourceP=%7B%22source%22%3A%22Link%22%7D
-https://www.juris.de/r3/document/BJNR142200002BJNE001032126/format/xsl?oi=S5z2XpHesb&sourceP=%7B%22source%22%3A%22Link%22%7D
